@@ -1,0 +1,1356 @@
+{
+    "language":"Language",
+    "languageRU":"Russian",
+    "languageEN":"English",
+    "languageKZ":"Kazakh",
+
+    "navbar_main":"HOME PAGE",
+    "navbar_news":"CITY NEWS",
+    "navbar_hotel":"HOTEL",
+    "navbar_night_life":"NIGHTLIFE",
+    "navbar_cafe":"CAFE",
+    "navbar_about_us":"CONTACT US",
+
+    "home_video_btn_start_travel":"Go Travel",
+    "home_video_title":"Aqtobe",
+    "home_video_description":"Organize your trip comfortably",
+    "home_wellcome_title":"Welcome to Aktobe",
+    "home_wellcome_description":"Aktobe is located in the west of Kazakhstan, in the European part of the country, in the north of the Aktobe region. The area of the city is 2.3 thousand km2. The Ilek River and several of its tributaries flow within the city limits, the Aktobe and Sazdinsky reservoirs are located nearby. Due to its location in the inner part of Eurasia and considerable remoteness from the oceans, the climate of the city is sharply continental.",
+    "placeInfo":[
+        {
+          "id": 1,
+          "headerTitle": "Гостиница «Baitau Hotel»",
+          "headerSubTitle": "Расположен в Актобе",
+          "headerText": "Развитая инфраструктура района расположения отеля «Baitau Hotel» делает его максимально комфортным для тех, кто ценит своё время. ",
+          "title": "Гостиница «Baitau Hotel»",
+          "description": " Развитая инфраструктура района расположения отеля «Baitau Hotel» делает его максимально комфортным для тех, кто ценит своё время. Уютные светлые номера гостиницы оснащены всем необходимым для комфортного проживания. Ванные комнаты укомплектованы халатами, феном, туалетно-косметическими принадлежностями. Номера отеля представлены в категории стандарт (1, 2, 3-х местные) и VIP (2-х местные). В стоимость номера входит завтрак. Номерной фонд отеля составляет 47 комнат.",
+          "img": ".././images/hotels/baitau/baitauhotel0.jpg",
+          "maps": "https://www.google.com/maps/d/embed?mid=1u2GpFmXjAg_uF_CNzwrXL8uYRs6aMQs&ehbc=2E312F",
+          "extras": [
+            "Бесплатная парковка",
+            "Бесплатный wifi",
+            "Отличные номера",
+            "Обслуживание номеров",
+            "Отличное расположение",
+            "Комфортные кровати"
+          ],
+          "maxCapacity": "10 человек",
+          "price": "22 000 тнг",
+          "phone": "8 (7132) 41-53-33",
+          "address": "пр. Санкибай батыра, 249",
+          "email": "baitauhotel@mail.ru",
+          "images": [
+            ".././images/hotels/baitau/baitauhotel1.jpg",
+            ".././images/hotels/baitau/baitauhotel2.jpg",
+            ".././images/hotels/baitau/baitauhotel3.jpg"
+          ],
+          "onlineBooking":"www.baitauhotel.kz"
+        },
+        {
+          "id": 2,
+          "headerTitle": "Отель ibis Aktobe",
+          "headerSubTitle": "Расположен в Актобе",
+          "headerText": "ibis Aktobe расположен в центре городе Актобе. К услугам гостей ресторан, круглосуточная стойка регистрации, общий лаундж и бесплатный Wi-Fi, а также бар.",
+          "title": "Отель ibis Aktobe",
+          "description": "ibis Aktobe расположен в центре городе Актобе. К услугам гостей ресторан, круглосуточная стойка регистрации, общий лаундж и бесплатный Wi-Fi, а также бар. Во всех номерах обустроена гостиная зона. К услугам гостей номера с кондиционером. В каждом номере отеля ibis Aktobe есть письменный стол, настенный телевизор с плоским экраном и собственная ванная комната. По утрам для гостей сервируют континентальный завтрак. В отеле Ibis Aktobe также есть бизнес-центр и бесплатная частная парковка.Отель является ближайшим к аэропорту Актобе, расстояние составляет 5 км.",
+          "img": ".././images/hotels/ibis/ibis0.jpg",
+          "maps": "https://www.google.com/maps/d/embed?mid=1MA6xNxQi7Xxq-EpQ5YLMdfiI0e6K2Ak&ehbc=2E312F",
+          "extras": [
+            "Бесплатная парковка",
+            "Бесплатный wifi",
+            "Курение запрещено",
+            "Обслуживание номеров",
+            "Отличное расположение",
+            "Подходит для детей",
+            "Можно с домашними животными (Платно)",
+            "Завтраки по системе 'шведский стол'",
+            "Подходит для инвалидов"
+          ],
+          "maxCapacity": "3 человека",
+          "price": "40 600 тнг",
+          "phone": "+7 7132 74 00 00",
+          "address": "ул. Отегена Сеитова, 5",
+          "email": "assistance.reservation@accor.com",
+          "images": [
+            ".././images/hotels/ibis/ibis1.jpg",
+            ".././images/hotels/ibis/ibis2.jpg",
+            ".././images/hotels/ibis/ibis3.jpg"
+          ],
+          "onlineBooking":"https://all.accor.com/russia/index.ru.shtml"
+        },
+        {
+          "id": 3,
+          "headerTitle": "Гостиница «Амстердам»",
+          "headerSubTitle": "Расположен в Актобе",
+          "headerText": "Отель «Амстердам» — это гостиничный комплекс, который находится в благоприятном месте города вдали от шума, но по соседству с административными и культурными центрами Актобе.",
+          "title": "Гостиница «Амстердам»",
+          "description": "Отель «Амстердам» — это гостиничный комплекс, который находится в благоприятном месте города вдали от шума, но по соседству с административными и культурными центрами Актобе. Гостиница работает ежедневно и круглосуточно. Завтрак — шведский стол входит в стоимость номера. В комплексе имеется 2 ресторана, кафе и VIP лаундж с круглосуточным баром.Ресторан «Divine» - европейская авторская кухня, имеется выход на террасу.Ресторан «Nord West» - европейская кухня, удобен для проведения банкетов, фуршетов, корпоративных вечеров.На территории гостиницы имеется охраняемая автомобильная парковка. Для постоянных клиентов действует система дисконтных карт. В комплексе имеется Центр отдыха, в котором находятся две финские сауны и турецкая сауна «Хаммам» с бассейном, также отдельный большой бассейн с джакузи и сауной.",
+          "img": ".././images/hotels/amsterdam/Амстердам0.jpg",
+          "maps": "https://www.google.com/maps/d/embed?mid=1wxZgErcmfPnPT56PIBmzjNy_9PjP658T",
+          "extras": [
+            "Free parking",
+            "Free wifi",
+            "Mini bar",
+            "TV",
+            "Nice bathroom",
+            "Massage",
+            "Pets allowed"
+          ],
+          "maxCapacity": "2 человека",
+          "price": "33 000 тнг",
+          "phone": "8 (701) 986-08-51",
+          "address": "пр-т. Абилкайыр-хана, 86В",
+          "email": "reservation@amsterdamhotel.kz",
+          "images": [
+            ".././images/hotels/amsterdam/Амстердам1.jpg",
+            ".././images/hotels/amsterdam/Амстердам2.jpg",
+            ".././images/hotels/amsterdam/Амстердам3.jpg"
+          ],
+          "onlineBooking":"https://amsterdamhotel.kz/booking"
+        }
+      ],
+    "foodInfo":[
+        {
+          "id": 1,
+          "headerTitle": "City Restaurant & Lounge",
+          "headerSubTitle": "12-й мкр., 21Л",
+          "headerText": "Приятная атмосфера и вежливый персонал позволят гостям ресторана «City Restaurant & Lounge» отвлечься от повседневной рутины.",
+          "title": "Ресторан «City Restaurant & Lounge»",
+          "description": "Приятная атмосфера и вежливый персонал позволят гостям ресторана «City Restaurant & Lounge» отвлечься от повседневной суеты. Разработанное с ориентацией на актуальные гастрономические тенденции меню непременно подарит посетителям возможность отведать необычные, а главное – вкусные блюда Европейской, Японской, Паназиатской и традиционной Казахской кухни. В ресторане имеется зал на 120 человек, летняя терраса, живая музыка, караоке, детская зона.",
+          "img": ".././images/food/city_restaurant/CityRestaurantLounge0.jpg",
+          "maps": "https://www.google.com/maps/d/embed?mid=1TnIbZ7liAqVGKkrhsnoBKGC1-lwHi00&ehbc=2E312F",
+          "images": [
+            ".././images/food/city_restaurant/CityRestaurantLounge1.jpg",
+            ".././images/food/city_restaurant/CityRestaurantLounge2.jpg",
+            ".././images/food/city_restaurant/CityRestaurantLounge3.jpg"
+          ],
+          "price": "6000 тнг",
+          "phone": "8 (7132) 90-99-90",
+          "address": "12-й мкр 21Л",
+          "email": " ari.agro@hi.t-com.hr",
+          "maxCapacity": "120 человек",
+          "rooms": "Открытые столики",
+          "breakfast": "Бесплатный завтрак"
+        },
+        {
+          "id": 2,
+          "headerTitle": "«Chechil Pub»",
+          "headerSubTitle": "ул. Газизы Жубановой, 47",
+          "headerText": "Chechil pub — одно из самых посещаемых и популярных мест в г. Актобе. Живая музыка, приятная атмосфера и, самое главное, демократичные цены сделали это заведение любимым для многих.",
+          "title": "«Chechil Pub»",
+          "description": "Chechil pub — одно из самых посещаемых и популярных мест в г. Актобе. Живая музыка, приятная атмосфера и, самое главное, демократичные цены сделали это заведение любимым для многих. В заведении на постоянной основе действуют акции на барное меню: Крепкий понедельник — цена как в магазине на весь ассортимент крепкого алкоголя (кроме водки и ликёров) Пивной вторник — всё разливное пиво за полцены Коктейльная среда — скидки на алкогольные коктейли Винный четверг — скидки на все вина Четверг - День именинника — дарят столько кружек пива, сколько исполняется лет (для именинника недели)",
+          "img": ".././images/food/chechilpub/ChechilPub0.jpg",
+          "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3352.541486162606!2d57.18109930000001!3d50.287088000000004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4182217d20065def%3A0x9e88a965c2f26ab2!2zQ2hlY2hpbCBQdWIg0JDQutGC0L7QsdC1!5e1!3m2!1sru!2skz!4v1681231692474!5m2!1sru!2skz",
+          "images": [
+            ".././images/food/chechilpub/ChechilPub1.jpg",
+            ".././images/food/chechilpub/ChechilPub2.jpg",
+            ".././images/food/chechilpub/ChechilPub3.jpg"
+          ],
+          "price": "5000 тнг",
+          "phone": "8 (707) 171-07-47",
+          "address": "12-й мкр 21Л",
+          "email": " ari.agro@hi.t-com.hr",
+          "maxCapacity": "Неограничено",
+          "rooms": "Открытые столики",
+          "breakfast": "Бесплатный завтрак"
+        }
+      ],
+    "reviews":[
+        {
+          "id": 1,
+          "name": "Аслан",
+          "avatar": ".././avatars/avatar-1.png",
+          "comment": "Perfect. From the kind Mr. Dalibor who contacted me immediately after booking to explain everything I needed. Great welcome, great positive energy. There is no need to talk about the modernity and neatness of the room."
+        },
+        {
+          "id": 2,
+          "name": "Асылай",
+          "avatar": ".././avatars/avatar-3.png",
+          "comment": "Fantastic place !!! Welcome with kindness and availability. The rooms are perfect, spotlessly clean and comfortably warm with the cold outside. Theres nothing missing, a fridge, a kettle, a television, a bathroom with a comfortable shower, a hair dryer .... too much to leave for just one night. Ah Parking is within the structure, it is spacious and convenient. Hope to be back as soon as possible !!!!!"
+        },
+        {
+          "id": 3,
+          "name": "Иван",
+          "avatar": ".././avatars/avatar-2.png",
+          "comment": "Really very nice hotel. Five minutes from the freeway. Very modern furniture and furniture. Thats all you need. Bed with a quality mattress. He stayed twice. The second time I didnt even think about where to stay. For the money, a very, very decent hotel. Good and convenient parking. I RECOMMEND !!!!"
+        },
+        {
+          "id": 4,
+          "name": "Жомарт",
+          "avatar": ".././avatars/avatar-4.png",
+          "comment": "Great accommodation, really nice hotel, comfortable room temperature and perfect floor heating. Great meals. Good cooks. Only the door on the shower is too small! Staff very friendly and helpful! All praise for the beautiful antique furniture! It all exudes some ancient times"
+        },
+        {
+          "id": 5,
+          "name": "Жаркынай",
+          "avatar": ".././avatars/avatar-5.png",
+          "comment": "Beautiful, comfortable and modernly furnished apartments - the perfect location to explore the charming corners of Slavonia. I highly recommend this place!"
+        }
+      ],
+      "detailInfoHotels":{
+        "id": 1,
+        "headerTitle": "Hotel Kralj Tomislav",
+        "headerSubTitle": "Located in Nova Gradiska",
+        "headerText": "Hotel Kralj Tomislav is an exclusive catering facility in the area of ​​Brodsko-Posavska Zupanija, which by its appearance, offer and services meets the high standards of catering and tourism",
+        "title": "Hotel Kralj Tomislav",
+        "description": " Hotel Kralj Tomislav is an exclusive catering facility in the area of ​​Brodsko-Posavska Zupanija, which by its appearance, offer and services meets the high standards of catering and tourism of today. Located in the center of Nova Gradiška, 120 km away from Zagreb to the east, it is an ideal place for anyone who wants to feel the specificity of the area in which it is located. Categorized by the Ministry of Tourism with three (***) stars justifiably makes the very top of the offer of this beautiful area of ​​ours. Its name symbolizes prestige and elegance, and its clients have spread their enthusiasm in their region.",
+        "img": ".././images/kraljtomislav.jpg",
+        "maps": "Trg kralja Tomislava 3, 35400, Nova Gradiška",
+        "extras": [
+          "Free parking",
+          "Free wifi",
+          "Mini bar",
+          "Room service",
+          "Free breakfast",
+          "Comfortable beds"
+        ],
+        "maxCapacity": "10 people",
+        "price": "520HRK(80€)",
+        "phone": "035 362 722",
+        "address": "Trg kralja Tomislava 3",
+        "email": "hotel@hotel-kralj-tomislav.hr",
+        "images": [
+          ".././images/hotels/1.jpeg",
+          ".././images/hotels/2.jpeg",
+          ".././images/hotels/3.jpeg"
+        ]
+      },
+    "nature":[
+        {
+          "id": 1,
+          "natureTitle": "Меловые горы «Актолагай»",
+          "natureLocation": "Мугалжарский район",
+          "natureCoordination": "47.494247, 55.116780",
+          "natureMap": "https://www.google.com/maps/place/%D0%90%D0%BA%D1%82%D0%BE%D0%BB%D0%B0%D0%B3%D0%B0%D0%B9/@47.4617522,55.0878829,11214m/data=!3m1!1e3!4m13!1m7!3m6!1s0x0:0x3461e6c02fac1d97!2zNDfCsDI5JzM5LjMiTiA1NcKwMDcnMDAuNCJF!3b1!8m2!3d47.494247!4d55.11678!3m4!1s0x4199c7f87ae7ad31:0x1c28f26de7f2e93a!8m2!3d47.4557773!4d55.0584126",
+          "natureText": "Актолагай (каз. Ақтолағай) — горная гряда протяженностью 90 км на территории Байганинского района, Актюбинской области. Это геологический и геоморфологический объект государственного заповедного фонда, имеющий республиканское и международное значение. Особенностью ландшафта этих мест является чрезвычайно изреженный покров меловых гор. Местами природа создала целые лабиринты отвесных стенок, колонн, ниш, выступов, террас, оползневых амфитеатров обособленных останцев. Актолагай — бывшее дно мирового океана. Аргументами являются найденные зубы акул, позвоночники кита, встречающиеся на каждом шагу окаменелые панцири черепах, моллюски, океанские ежи. Длина плато — 90 км, ширина 5 —10 км. Высота самой высокой точки Нартобе составляет 302 метра. Смыкается с Прикаспийской низменностью вдоль берега реки Жем. Сложена меловыми породами. Западный склон крутой, расчленен логами и оврагами. С Актолагая берёт начало река Терисаккан. К западу расположено озеро Толагай-сор. На сероземах и солончаках произрастают полынь, биюргун, тасбиюргун, серая полынь, боялыч. Местные жители называют Актолагай музеем под открытым небом, некоторые жители называют это место Алатау. Здесь можно увидеть множество скульптур, таких как лев, титаник, шахматная принцесса, верблюд, черепаха, пирамида, сфинкс, шахматная ладья, юрта, пирамиды и др. По словам Аксакалов, кюй Курмангазы \"Алатау\" посвящен именно этому ущелью. Еще одна удивительная особенность урочища Актолагай заключается в том, что за сутки из за солнца, плато меняет свой цвет 3 раза. Желтоватый рано утром, днем — белый, а вечером приобретает голубоватый цвет. Ущелье имеет знаменитую вершину в виде тюбетейки, которую называют вершиной Кулшара. В свое время герой рода Адай по имени Құлшар вырыл пещеру над вершиной и защищался от врага. На вершине горы, к которой ведет одиночная дорога, стоит могила батыра. Максимальная высота горы, на которую можно подняться с Земли, составляет 251 метр. ",
+          "imgBanner": ".././images/nature/aktologai/Актолагай0.jpg",
+          "imgBannerBg": ".././images/nature/aktologai/Актолагай1.jpg",
+          "virualMapLink": "https://visitaktobe.kz/tours/aktologai/index.html",
+          "imgCollection": [
+            {
+              "original": ".././images/nature/aktologai/Актолагай2.jpg",
+              "thumbnail": ".././images/nature/aktologai/Актолагай2.jpg"
+            },
+            {
+              "original": ".././images/nature/aktologai/Актолагай3.jpg",
+              "thumbnail": ".././images/nature/aktologai/Актолагай3.jpg"
+            },
+            {
+              "original": ".././images/nature/aktologai/Актолагай4.jpg",
+              "thumbnail": ".././images/nature/aktologai/Актолагай4.jpg"
+            },
+            {
+              "original": ".././images/nature/aktologai/Актолагай5.jpg",
+              "thumbnail": ".././images/nature/aktologai/Актолагай5.jpg"
+            },
+            {
+              "original": ".././images/nature/aktologai/Актолагай6.jpg",
+              "thumbnail": ".././images/nature/aktologai/Актолагай6.jpg"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "natureTitle": "Природный заказник «Оркаш»",
+          "natureLocation": "Байганинский район",
+          "natureCoordination": "49.296757, 58.136044",
+          "natureMap": "https://www.google.com/maps/place/%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%D0%BD%D0%B8%D0%BA+%D0%9E%D1%80%D0%BA%D0%B0%D1%88/@49.2961246,58.1369609,676m/data=!3m1!1e3!4m5!3m4!1s0x418411a78daac71d:0x516d464972973481!8m2!3d49.2968125!4d58.1356875",
+          "natureText": "Настоящий ботанический рай раскинулся в Мугалжарском районе. Царство десятков видов редких птиц и растений, в том числе занесённых в Красную книгу. Для местного типичного пейзажа здесь необычно всё – лес посреди степи из берёз, осин и ив, кустарники боярышника и шиповника, невероятной красоты разнотравье. Невероятное количество птиц обосновалось в заповеднике «Оркаш», в том числе чёрный коршун, курганник, канюк, степной орёл, могильник, болотный, степной, луговой луни и пустельга. Неподалёку от леса находится еще одно невероятное место – композиция из каменных глыб, вросших в землю, и достигающих в высоту двух метров.",
+          "imgBanner": ".././images/nature/orkash/Оркаш0.jpg",
+          "imgBannerBg": ".././images/nature/orkash/Оркаш1.jpg",
+          "virualMapLink": "https://visitaktobe.kz/tours/orkash/index.html",
+          "imgCollection": [
+            {
+              "original": ".././images/nature/orkash/Оркаш2.jpg",
+              "thumbnail": ".././images/nature/orkash/Оркаш2.jpg"
+            },
+            {
+              "original": ".././images/nature/orkash/Оркаш3.jpg",
+              "thumbnail": ".././images/nature/orkash/Оркаш3.jpg"
+            },
+            {
+              "original": ".././images/nature/orkash/Оркаш4.jpg",
+              "thumbnail": ".././images/nature/orkash/Оркаш4.jpg"
+            },
+            {
+              "original": ".././images/nature/orkash/Оркаш5.jpg",
+              "thumbnail": ".././images/nature/orkash/Оркаш5.jpg"
+            },
+            {
+              "original": ".././images/nature/orkash/Оркаш6.jpg",
+              "thumbnail": ".././images/nature/orkash/Оркаш6.jpg"
+            },
+            {
+              "original": ".././images/nature/orkash/Оркаш7.jpg",
+              "thumbnail": ".././images/nature/orkash/Оркаш7.jpg"
+            },
+            {
+              "original": ".././images/nature/orkash/Оркаш8.jpg",
+              "thumbnail": ".././images/nature/orkash/Оркаш8.jpg"
+            },
+            {
+              "original": ".././images/nature/orkash/Оркаш9.jpg",
+              "thumbnail": ".././images/nature/orkash/Оркаш9.jpg"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "natureTitle": "Каргалинское водохранилище",
+          "natureLocation": "Каргалинский район",
+          "natureCoordination": "50.626832, 57.783706",
+          "natureMap": "https://www.google.com/maps/place/%D0%BA%D0%B0%D1%80%D0%B3%D0%B0%D0%BB%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%B5+%D0%B2%D0%BE%D0%B4%D0%BE%D1%85%D1%80%D0%B0%D0%BD%D0%B8%D0%BB%D0%B8%D1%89%D0%B5/@50.6345072,57.7743867,4423m/data=!3m1!1e3!4m5!3m4!1s0x4181c50aac8f4095:0x6e4ceec4c9681868!8m2!3d50.6388185!4d57.7771301",
+          "natureText": "Живописная прибрежная зона Каргалинского водохранилища, находящегося в углублении между горами, привлекает своей неповторимой красотой и духом гармонии. Чудесная береговая зона этого уникального искусственного моря из года в год привлекает сюда желающих отдохнуть и насладиться единением с природой. Каргалинское водохранилище расположенное вдоль русла реки Каргалы, в 60 км. от города Актобе. Оно введено в действие в 1975 году для орошения сельскохозяйственных земель. Фактическая вместимость водохранилища достигает 500-600 млн. куб. м. воды. Максимальная глубина доходит до 31,8 м. Площадь зеркала равна 28,5 кв. км. На данный момент на берегу Каргалинского водохранилища идёт строительство зоны отдыха Qargaly Eco Resort.",
+          "imgBanner": ".././images/nature/kargaly/КаргалинскоеВодохранилище0.jpg",
+          "imgBannerBg": ".././images/nature/kargaly/КаргалинскоеВодохранилище1.jpg",
+          "virualMapLink": "https://visitaktobe.kz/tours/kargaly/index.html",
+          "imgCollection": [
+            {
+              "original": ".././images/nature/kargaly/КаргалинскоеВодохранилище2.jpg",
+              "thumbnail": ".././images/nature/kargaly/КаргалинскоеВодохранилище2.jpg"
+            },
+            {
+              "original": ".././images/nature/kargaly/КаргалинскоеВодохранилище3.jpg",
+              "thumbnail": ".././images/nature/kargaly/КаргалинскоеВодохранилище3.jpg"
+            },
+            {
+              "original": ".././images/nature/kargaly/КаргалинскоеВодохранилище4.jpg",
+              "thumbnail": ".././images/nature/kargaly/КаргалинскоеВодохранилище4.jpg"
+            },
+            {
+              "original": ".././images/nature/kargaly/КаргалинскоеВодохранилище5.jpg",
+              "thumbnail": ".././images/nature/kargaly/КаргалинскоеВодохранилище5.jpg"
+            },
+            {
+              "original": ".././images/nature/kargaly/КаргалинскоеВодохранилище6.jpg",
+              "thumbnail": ".././images/nature/kargaly/КаргалинскоеВодохранилище6.jpg"
+            },
+            {
+              "original": ".././images/nature/kargaly/КаргалинскоеВодохранилище7.jpg",
+              "thumbnail": ".././images/nature/kargaly/КаргалинскоеВодохранилище7.jpg"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "natureTitle": "«Волчий» водопад",
+          "natureLocation": "Каргалинский район",
+          "natureCoordination": "50.872589, 58.287661",
+          "natureMap": "https://www.google.com/maps/place/%D0%92%D0%BE%D0%BB%D1%87%D0%B8%D0%B9+%D0%92%D0%BE%D0%B4%D0%BE%D0%BF%D0%B0%D0%B4/@50.8726464,58.2874166,116m/data=!3m1!1e3!4m13!1m7!3m6!1s0x0:0x349c14b12049d339!2zNTDCsDUyJzIxLjMiTiA1OMKwMTcnMTUuNiJF!3b1!8m2!3d50.872589!4d58.287661!3m4!1s0x4180252cec9076ef:0x35522ceb27816cc7!8m2!3d50.8727112!4d58.2876826",
+          "natureText": "«Волчий» водопад – одно из самых привлекательных туристических мест в Актюбинской области, находящееся на расстоянии 120 км. от города Актобе. Расположенный в живописном ущелье среди горных скал, холмов, лесов и озер, он находится в самом сердце Каргалинского района. Водопад был создан человеком в 70-е годы прошлого столетия, когда было принято решение в ущелье реки Эбита соорудить специальный отвод вод от Большого Ащелисайского моря или БАМа, иными словами, создать искусственный слив воды от тающих ледников. Речка Эбита, кстати, затем впадает в Урал. «Волчьим» водопад стали называть благодаря появившимся позже легендам. По одной из них, каждую ночь в ущелье реки приходит волчица, потерявшая своих детёнышей, смытых бурным потоком водопада. Некоторые путники признавались, что слышали издалека печальный вой зверя. Второе название водопада - Ащелисайский. Это потому, что обнаружить его можно только добравшись до села под названием Ащелисай (ранее – Григорьевка). Водопад можно увидеть во всей красе только по весне, когда тают ледники на вершинах Бадамшинско-Алимбетовского плато. Именно поэтому вода в источнике настолько ледяная, что сводит суставы ног. Охлаждаться в такой воде можно только мгновение. Зато любоваться необычайной красотой и впитывать в легкие прохладу водопада можно столько, сколько душе угодно. Да и пеший шаг до него после долгого пути и автотрассы – одно удовольствие. Туристы проходят его под тенистыми объятиями зелёных рощ из ольхи и березы. Самое лучшее время для посещения водопада – с конца апреля до конца июня, затем водопад пересыхает. Не так много времени для большой воды, зато подстегивает туристов не откладывать поездку за приятным приключением.",
+          "imgBanner": ".././images/nature/volk_vopopad/ВолчийВодопад4.jpg",
+          "imgBannerBg": ".././images/nature/volk_vopopad/ВолчийВодопад9.jpg",
+          "virualMapLink": "https://visitaktobe.kz/tours/volk_vodopad/index.html",
+          "imgCollection": [
+            {
+              "original": ".././images/nature/volk_vopopad/ВолчийВодопад0.jpg",
+              "thumbnail": ".././images/nature/volk_vopopad/ВолчийВодопад0.jpg"
+            },
+            {
+              "original": ".././images/nature/volk_vopopad/ВолчийВодопад1.jpg",
+              "thumbnail": ".././images/nature/volk_vopopad/ВолчийВодопад1.jpg"
+            },
+            {
+              "original": ".././images/nature/volk_vopopad/ВолчийВодопад2.jpg",
+              "thumbnail": ".././images/nature/volk_vopopad/ВолчийВодопад2.jpg"
+            },
+            {
+              "original": ".././images/nature/volk_vopopad/ВолчийВодопад3.jpg",
+              "thumbnail": ".././images/nature/volk_vopopad/ВолчийВодопад3.jpg"
+            },
+            {
+              "original": ".././images/nature/volk_vopopad/ВолчийВодопад4.jpg",
+              "thumbnail": ".././images/nature/volk_vopopad/ВолчийВодопад4.jpg"
+            },
+            {
+              "original": ".././images/nature/volk_vopopad/ВолчийВодопад5.jpg",
+              "thumbnail": ".././images/nature/volk_vopopad/ВолчийВодопад5.jpg"
+            },
+            {
+              "original": ".././images/nature/volk_vopopad/ВолчийВодопад6.jpg",
+              "thumbnail": ".././images/nature/volk_vopopad/ВолчийВодопад6.jpg"
+            },
+            {
+              "original": ".././images/nature/volk_vopopad/ВолчийВодопад7.jpg",
+              "thumbnail": ".././images/nature/volk_vopopad/ВолчийВодопад7.jpg"
+            },
+            {
+              "original": ".././images/nature/volk_vopopad/ВолчийВодопад8.jpg",
+              "thumbnail": ".././images/nature/volk_vopopad/ВолчийВодопад8.jpg"
+            },
+            {
+              "original": ".././images/nature/volk_vopopad/ВолчийВодопад9.jpg",
+              "thumbnail": ".././images/nature/volk_vopopad/ВолчийВодопад9.jpg"
+            },
+            {
+              "original": ".././images/nature/volk_vopopad/ВолчийВодопад10.jpg",
+              "thumbnail": ".././images/nature/volk_vopopad/ВолчийВодопад10.jpg"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "natureTitle": "Метеоритный кратер «Жаманшин»",
+          "natureLocation": "Иргизский район",
+          "natureCoordination": "48.354583, 60.961797",
+          "natureMap": "https://www.google.com/maps/place/%D0%9C%D0%B5%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%82%D0%BD%D1%8B%D0%B9+%D0%BA%D1%80%D0%B0%D1%82%D0%B5%D1%80+%D0%96%D0%B0%D0%BC%D0%B0%D0%BD%D1%88%D0%B8%D0%BD/@48.3266108,60.9718604,820m/data=!3m1!1e3!4m13!1m7!3m6!1s0x0:0xfb8db9bc0176bc03!2zNDjCsDIxJzE2LjUiTiA2MMKwNTcnNDIuNSJF!3b1!8m2!3d48.354583!4d60.961797!3m4!1s0x418855d34421df63:0x76843643725927df!8m2!3d48.3254783!4d60.973736",
+          "natureText": "Жаманшин (каз. жаман шың — жаман — плохой; шың — пик, стекловидная хрупкая порода) — ударный кратер в Иргизском районе Актюбинской области. Именно в этих местах около миллиона лет назад упал огромнейший метеорит (возможно, астероид или ядро кометы) диаметром от 200 до 400 метров. В момент взрыва температура окружающей среды в районе падения достигала 1700 °C, метеорит врезался в планету, разогрелся от торможения и – мгновенно испарился. Энергия взрыва была примерно равна энергии миллиона ядерных бомб, сброшенных на Хиросиму, - он буквально перевернул все геологические отложения. Гигантское давление и невообразимая температура разрушили поверхность планеты. На какой-то момент земная кора в маленькой области Приаралья стала жидкой. По расплавленной магме пошли волны так же, как они идут от камня, брошенного в воду. Ударная волна вздыбила породы, сдвинула, опрокинула слои. Так образовался внутренний вал Жаманшинского кратера, своеобразная «машина времени», срез истории нашей планеты за сотни тысяч лет. Огромная сила поднимала в воздух глыбы камня размером с дом и выбрасывала их на расстояние нескольких километров от эпицентра взрыва. Диаметр кратера (вместе с валом), по последним данным, составляет около 13 километров, а его глубина в наши дни равняется примерно 300 метрам. На самом деле, Жаманшин – это уникальное место, где можно найти окаменелые моллюски и кораллы, а также по сути, первое на Земле месторождение тектитов - стеклоподобных образований черного или темно-зеленого цвета, о происхождении которых уже больше столетия ученые ведут споры. Как бы то ни было, но тектиты можно считать самыми загадочными камнями на земле, потому что в химическом отношении они не напоминают ни одно из общеизвестных земных и внеземных веществ. На всей земле известно не более десятка их местонахождений. По структуре и составу тектиты кратера Жаманшин подразделяются на две независимые группы: жаманшиниты и иргизиты (по названию речки Иргиз). Иргизиты имеют более высокое содержание воды. Кроме того, они на 10 % состоят из никеля, причем никеля явно неземного происхождения. Это единственный кратер, в котором одновременно обнаруживаются тектиты и импактиты. В кратере находят также вспенившийся лешательерит (кварцевое стекло) и минералы, содержащие трёхвалентный титан. Кратер является природным заказником Иргизского района. Как достопримечательность, пользуется популярностью у туристов.",
+          "imgBanner": ".././images/nature/meteoritiy_krater/МетеоритныйКратерЖаманшин3.jpg",
+          "imgBannerBg": ".././images/nature/meteoritiy_krater/МетеоритныйКратерЖаманшин4.jpg",
+          "virualMapLink": "https://visitaktobe.kz/tours/zhamarshyn/index.html",
+          "imgCollection": [
+            {
+              "original": ".././images/nature/meteoritiy_krater/МетеоритныйКратерЖаманшин1.jpg",
+              "thumbnail": ".././images/nature/meteoritiy_krater/МетеоритныйКратерЖаманшин1.jpg"
+            },
+            {
+              "original": ".././images/nature/meteoritiy_krater/МетеоритныйКратерЖаманшин2.jpg",
+              "thumbnail": ".././images/nature/meteoritiy_krater/МетеоритныйКратерЖаманшин2.jpg"
+            },
+            {
+              "original": ".././images/nature/meteoritiy_krater/МетеоритныйКратерЖаманшин3.jpg",
+              "thumbnail": ".././images/nature/meteoritiy_krater/МетеоритныйКратерЖаманшин3.jpg"
+            },
+            {
+              "original": ".././images/nature/meteoritiy_krater/МетеоритныйКратерЖаманшин4.jpg",
+              "thumbnail": ".././images/nature/meteoritiy_krater/МетеоритныйКратерЖаманшин4.jpg"
+            },
+            {
+              "original": ".././images/nature/meteoritiy_krater/МетеоритныйКратерЖаманшин5.jpg",
+              "thumbnail": ".././images/nature/meteoritiy_krater/МетеоритныйКратерЖаманшин5.jpg"
+            },
+            {
+              "original": ".././images/nature/meteoritiy_krater/МетеоритныйКратерЖаманшин6.jpg",
+              "thumbnail": ".././images/nature/meteoritiy_krater/МетеоритныйКратерЖаманшин6.jpg"
+            },
+            {
+              "original": ".././images/nature/meteoritiy_krater/МетеоритныйКратерЖаманшин7.jpg",
+              "thumbnail": ".././images/nature/meteoritiy_krater/МетеоритныйКратерЖаманшин7.jpg"
+            },
+            {
+              "original": ".././images/nature/meteoritiy_krater/МетеоритныйКратерЖаманшин8.jpg",
+              "thumbnail": ".././images/nature/meteoritiy_krater/МетеоритныйКратерЖаманшин8.jpg"
+            },
+            {
+              "original": ".././images/nature/meteoritiy_krater/МетеоритныйКратерЖаманшин9.jpg",
+              "thumbnail": ".././images/nature/meteoritiy_krater/МетеоритныйКратерЖаманшин9.jpg"
+            },
+            {
+              "original": ".././images/nature/meteoritiy_krater/МетеоритныйКратерЖаманшин10.jpg",
+              "thumbnail": ".././images/nature/meteoritiy_krater/МетеоритныйКратерЖаманшин10.jpg"
+            },
+            {
+              "original": ".././images/nature/meteoritiy_krater/МетеоритныйКратерЖаманшин11.jpg",
+              "thumbnail": ".././images/nature/meteoritiy_krater/МетеоритныйКратерЖаманшин11.jpg"
+            },
+            {
+              "original": ".././images/nature/meteoritiy_krater/МетеоритныйКратерЖаманшин12.jpg",
+              "thumbnail": ".././images/nature/meteoritiy_krater/МетеоритныйКратерЖаманшин12.jpg"
+            },
+            {
+              "original": ".././images/nature/meteoritiy_krater/МетеоритныйКратерЖаманшин13.jpg",
+              "thumbnail": ".././images/nature/meteoritiy_krater/МетеоритныйКратерЖаманшин13.jpg"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "natureTitle": "Иргиз-Тургайский государственный природный резерват",
+          "natureLocation": "Иргизский район",
+          "natureCoordination": "48.377999, 62.784561",
+          "natureMap": "https://www.google.com/maps/place/%D0%AB%D1%80%D2%93%D1%8B%D0%B7-%D0%A2%D0%BE%D1%80%D2%93%D0%B0%D0%B9+%D1%80%D0%B5%D0%B7%D0%B5%D1%80%D0%B2%D0%B0%D1%82%D1%8B/@48.376992,62.7819624,4638m/data=!3m1!1e3!4m12!1m6!3m5!1s0x422716211c41f3e7:0xe6b84d2416c40efe!2z0KvRgNKT0YvQty3QotC-0YDSk9Cw0Lkg0YDQtdC30LXRgNCy0LDRgtGL!8m2!3d48.3784804!4d62.7833848!3m4!1s0x422716211c41f3e7:0xe6b84d2416c40efe!8m2!3d48.3784804!4d62.7833848",
+          "natureText": "Иргиз-Тургайский государственный природный резерват площадью 763,5 га находится территории Иргизского района. Биоразнообразие данной территории уникально. На территории резервата встречается 29 видов млекопитающих, 250 видов птиц, 14 видов пресмыкающихся, 4 вида земноводных и 10 видов рыб. Из них 32 редких и исчезающих вида птиц, занесенных в Красную книгу Казахстана: розовый и кудрявый пеликаны, колпица, каравайка, малая белая цапля, фламинго, малый лебедь, лебедь-кликун, краснозобая казарка, савка, стерх, серый журавль, журавль-красавка, дрофа, джек, стрепет, кречетка, тонкоклювый кроншнеп, черноголовый хохотун, чернобрюхий и белобрюхий рябок, саджа, сапсан, балобан, орланы белохвост и долгохвост, беркут, могильник, степной орел, змееяд, скопа. Территория резервата является местом обитания млекопитающих занесенных в Красную книгу Казахстана: кожанок Бобринского - эндемика Казахстана, барханный кот - редкий малочисленный вид в фауне Казахстана. Иргиз-Тургайский государственный природный резерват является одним из крупной и почти единственной строго охраняемой степной территорией созданной с целью сохранения и восстановления природных комплексов, охраны мест обитания (зимовок, летовок, окота), путей миграции сайгака – представителя бетпакдалинской популяции. В период сезонных миграций и линьки здесь пролетает не менее 2-3 млн. птиц водоплавающих и околоводных видов.Флора резервата представлена 430 видами. Природный резерват состоит из двух региональных отделений – северного и южного, которые разделены Тургайским государственным природным заказником. Северное региональное отделение включает озера Олькейекской группы и долину реки Олькейек. Южное региональное отделение включает водно-болотные угодья международного значения, систему озер на реке Торгай, равнинную впадину Шалкартениз, горы Шалкарнура, озера Курдым, Караколь и Бакшаколь, расположенные в низовьях реки Торгай. Для обеспечения защиты и охраны особо ценных природных комплексов резервата от возможных неблагоприятных факторов и сохранения экологической целостности природных комплексов вокруг резервата по всему периметру создана охранная зона шириной 2 км. В пределах охранной зоны ограничивается любая деятельность, отрицательно влияющая на состояние и восстановление экологических систем резервата и находящихся на них объектов природно-заповедного фонда.",
+          "imgBanner": ".././images/nature/irgiz_turgay/Иргиз_Тургайский0.jpg",
+          "imgBannerBg": ".././images/nature/irgiz_turgay/Иргиз_Тургайский1.jpg",
+          "virualMapLink": "https://visitaktobe.kz/tours/irgizrezervat/index.html",
+          "imgCollection": [
+            {
+              "original": ".././images/nature/irgiz_turgay/Иргиз_Тургайский1.jpg",
+              "thumbnail": ".././images/nature/irgiz_turgay/Иргиз_Тургайский1.jpg"
+            },
+            {
+              "original": ".././images/nature/irgiz_turgay/Иргиз_Тургайский2.jpg",
+              "thumbnail": ".././images/nature/irgiz_turgay/Иргиз_Тургайский2.jpg"
+            },
+            {
+              "original": ".././images/nature/irgiz_turgay/Иргиз_Тургайский3.jpg",
+              "thumbnail": ".././images/nature/irgiz_turgay/Иргиз_Тургайский3.jpg"
+            },
+            {
+              "original": ".././images/nature/irgiz_turgay/Иргиз_Тургайский4.jpg",
+              "thumbnail": ".././images/nature/irgiz_turgay/Иргиз_Тургайский4.jpg"
+            },
+            {
+              "original": ".././images/nature/irgiz_turgay/Иргиз_Тургайский5.jpg",
+              "thumbnail": ".././images/nature/irgiz_turgay/Иргиз_Тургайский5.jpg"
+            },
+            {
+              "original": ".././images/nature/irgiz_turgay/Иргиз_Тургайский6.jpg",
+              "thumbnail": ".././images/nature/irgiz_turgay/Иргиз_Тургайский6.jpg"
+            },
+            {
+              "original": ".././images/nature/irgiz_turgay/Иргиз_Тургайский7.jpg",
+              "thumbnail": ".././images/nature/irgiz_turgay/Иргиз_Тургайский7.jpg"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "natureTitle": "Пески «Аккум»",
+          "natureLocation": "Байганинский район",
+          "natureCoordination": "48.218301, 55.698665",
+          "natureMap": "https://www.google.com/maps/place/%D0%90%D0%BA%D0%BA%D1%83%D0%BC+%D0%BF%D0%B5%D1%81%D0%BA%D0%B8+%2F+peski+Akkum/@48.2250758,55.6989069,7859m/data=!3m1!1e3!4m13!1m7!3m6!1s0x0:0x5b8e09a6100ce454!2zNDjCsDEzJzA1LjkiTiA1NcKwNDEnNTUuMiJF!3b1!8m2!3d48.218301!4d55.698665!3m4!1s0x419bb1c56bc5723b:0x566e0b3de5e4aa35!8m2!3d48.2268607!4d55.7716132",
+          "natureText": "Аккум (каз. ақ - белый, құм - песок) - песчаная долина, расположенная на правом берегу реки Сагыз в селе Алтай батыр Байганинского района. Длина 40 км, ширина 15 км. Здесь пески мелкозернистые, сыпучие, мало затронуты почвообразовательным процессом. Растительный покров полынно-ковыльный, представленный комплексами из пустынных полукустарников (тамариск, жузгун), также встречаются заросли саксаула. Из животного мира обитают заяц-русак, корсак, тушканчик-прыгун, барханный кот, малый жаворонок, пустынная каменка, песчанка, круглоголовка-вертихвостка, степная агама, песчаные удавчики.",
+          "imgBanner": ".././images/nature/peski_akkum/ПескиАккум0.jpg",
+          "imgBannerBg": ".././images/nature/peski_akkum/ПескиАккум1.jpg",
+          "virualMapLink": "https://visitaktobe.kz/tours/akkumsagiz/index.html",
+          "imgCollection": [
+            {
+              "original": ".././images/nature/peski_akkum/ПескиАккум1.jpg",
+              "thumbnail": ".././images/nature/peski_akkum/ПескиАккум1.jpg"
+            },
+            {
+              "original": ".././images/nature/peski_akkum/ПескиАккум2.jpg",
+              "thumbnail": ".././images/nature/peski_akkum/ПескиАккум2.jpg"
+            },
+            {
+              "original": ".././images/nature/peski_akkum/ПескиАккум3.jpg",
+              "thumbnail": ".././images/nature/peski_akkum/ПескиАккум3.jpg"
+            },
+            {
+              "original": ".././images/nature/peski_akkum/ПескиАккум4.jpg",
+              "thumbnail": ".././images/nature/peski_akkum/ПескиАккум4.jpg"
+            },
+            {
+              "original": ".././images/nature/peski_akkum/ПескиАккум5.jpg",
+              "thumbnail": ".././images/nature/peski_akkum/ПескиАккум5.jpg"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "natureTitle": "«Немой» аул",
+          "natureLocation": "Каргалинский район",
+          "natureCoordination": "50.908754, 58.321778",
+          "natureMap": "https://www.google.com/maps/place/50%C2%B054'31.5%22N+58%C2%B019'18.4%22E/@50.9069937,58.3181967,1354m/data=!3m1!1e3!4m5!3m4!1s0x0:0x27bf4b007fdaeb15!8m2!3d50.908754!4d58.321778",
+          "natureText": "Археологический памятник, известный как Немой аул - это излюбленное место туристов, ценящих наслаждение природными красотами. Прекрасный вид на Ащелисайское море, крутые скалы, возможность купания и рыбалки делают Немой аул прекрасным местом для отдыха. О происхождении названия этого места ходит несколько легенд. По одной из них, здесь жил ясновидящий, чьё имя никто не знал. Народ приходил к нему с вопросами, но к людям выходила женщина, которая передавала видения этого провидца. Отсюда и пошло название «Немой аул», так как было все тихо и без лишних разговоров. По другой версии, когда-то этот аул из-за отсутствия условий, необходимых для полноценной жизни, массово покинули все жители, кроме одного пастуха по имени Ратай. Он был немым от рождения, но его поступок без слов стал доказательством любви к родной земле. В честь него место и прозвали «Немым».",
+          "imgBanner": ".././images/nature/nemoy_aul/НемойАул0.jpg",
+          "imgBannerBg": ".././images/nature/nemoy_aul/НемойАул1.jpg",
+          "virualMapLink": "https://visitaktobe.kz/tours/nemoy_aul/index.html",
+          "imgCollection": [
+            {
+              "original": ".././images/nature/nemoy_aul/НемойАул1.jpg",
+              "thumbnail": ".././images/nature/nemoy_aul/НемойАул1.jpg"
+            },
+            {
+              "original": ".././images/nature/nemoy_aul/НемойАул2.jpg",
+              "thumbnail": ".././images/nature/nemoy_aul/НемойАул2.jpg"
+            },
+            {
+              "original": ".././images/nature/nemoy_aul/НемойАул3.jpg",
+              "thumbnail": ".././images/nature/nemoy_aul/НемойАул3.jpg"
+            },
+            {
+              "original": ".././images/nature/nemoy_aul/НемойАул4.jpg",
+              "thumbnail": ".././images/nature/nemoy_aul/НемойАул4.jpg"
+            },
+            {
+              "original": ".././images/nature/nemoy_aul/НемойАул5.jpg",
+              "thumbnail": ".././images/nature/nemoy_aul/НемойАул5.jpg"
+            },
+            {
+              "original": ".././images/nature/nemoy_aul/НемойАул6.jpg",
+              "thumbnail": ".././images/nature/nemoy_aul/НемойАул6.jpg"
+            },
+            {
+              "original": ".././images/nature/nemoy_aul/НемойАул7.jpg",
+              "thumbnail": ".././images/nature/nemoy_aul/НемойАул7.jpg"
+            },
+            {
+              "original": ".././images/nature/nemoy_aul/НемойАул8.jpg",
+              "thumbnail": ".././images/nature/nemoy_aul/НемойАул8.jpg"
+            },
+            {
+              "original": ".././images/nature/nemoy_aul/НемойАул9.jpg",
+              "thumbnail": ".././images/nature/nemoy_aul/НемойАул9.jpg"
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "natureTitle": "Пески \"Баркын\"",
+          "natureLocation": "Уилский район",
+          "natureCoordination": "49.063800, 54.727455",
+          "natureMap": "https://www.google.com/maps/place/%D0%9F%D0%B5%D1%81%D0%BA%D0%B8+%D0%91%D0%B0%D1%80%D0%BA%D1%8B%D0%BD/@49.060763,54.7211462,5541m/data=!3m1!1e3!4m5!3m4!1s0x419c51f6600d8b81:0x8f429aff637133c!8m2!3d49.0600038!4d54.7288924",
+          "natureText": "Пески Баркын – одно из немногих мест, где можно принимать лечебные песочные ванны, полезные при заболеваниях опорно-двигательного аппарата, невритах и радикулитах. Эта методика имеет под собой научное доказательство. Считается, что раньше на этом месте разливалось море. Теперь же вода сошла, оставив необыкновенные холмы песка площадью в 35 тысяч гектаров.\n\n      Ещё одним чудом этого места является великолепный сосновый бор, возникший, словно оазис в пустыне, и делающий пески Баркын уникальным в совём роде местом. Под песками расположены подземные воды, благодаря чему и вырос этот лес.",
+          "imgBanner": ".././images/nature/peski_barkin/ПескиБаркын0.jpg",
+          "imgBannerBg": ".././images/nature/peski_barkin/ПескиБаркын1.jpg",
+          "virualMapLink": "https://www.visitaktobe.kz/tours/barkyn/index.html",
+          "imgCollection": [
+            {
+              "original": ".././images/nature/peski_barkin/ПескиБаркын2.jpg",
+              "thumbnail": ".././images/nature/peski_barkin/ПескиБаркын2.jpg"
+            },
+            {
+              "original": ".././images/nature/peski_barkin/ПескиБаркын3.jpg",
+              "thumbnail": ".././images/nature/peski_barkin/ПескиБаркын3.jpg"
+            },
+            {
+              "original": ".././images/nature/peski_barkin/ПескиБаркын4.jpg",
+              "thumbnail": ".././images/nature/peski_barkin/ПескиБаркын4.jpg"
+            },
+            {
+              "original": ".././images/nature/peski_barkin/ПескиБаркын5.jpg",
+              "thumbnail": ".././images/nature/peski_barkin/ПескиБаркын5.jpg"
+            },
+            {
+              "original": ".././images/nature/peski_barkin/ПескиБаркын6.jpg",
+              "thumbnail": ".././images/nature/peski_barkin/ПескиБаркын6.jpg"
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "natureTitle": "Гора «Акбота-Санкибай»",
+          "natureLocation": "Байганинский район",
+          "natureCoordination": "47.395125, 55.488907",
+          "natureMap": "https://www.google.com/maps/place/47%C2%B023'42.5%22N+55%C2%B029'20.1%22E/@47.395125,55.4867183,712m/data=!3m2!1e3!4b1!4m5!3m4!1s0x0:0x44bbf6bfa186189e!8m2!3d47.395125!4d55.488907",
+          "natureText": "Гора \"Ақбота - Сәнкібай\" находится в 45 км от села Миялы.\n      В ХVIII веке жил Санкибай - богатый и уважаемый человек, который владел табунами скакунов. По традиции в ту пору мужчины аула ежегодно наносили визит вежливости хану Абилкайыру. Воспользовавшись отсутствием воинов в ауле, на него напали калмыки и угнали скот. Отважная дочь Санкибая – Акбота собрала молодежь и бросилась в погоню, чтобы вернуть угнанный скот. В схватке с врагами Акбота получила тяжелое ранение в грудь и погибла. Но вернула скот в аул. Узнав об этом несчастье Санкибай сильно горевал о смерти дочери. Он решил похоронить её тело на вершине горы, чтобы не касались её могилы ноги людей и животных, и вскоре и сам от горя окаменел. С тех пор неприступная скала, изображающая слияние двух фигур, стала носить название Акбота – Санкибай.",
+          "imgBanner": ".././images/nature/gora_akbota_sankibay/ГораАкботаСанкибай0.jpg",
+          "imgBannerBg": ".././images/nature/gora_akbota_sankibay/ГораАкботаСанкибай1.jpg",
+          "virualMapLink": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3551.913958738175!2d55.4889167!3d47.3951389!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNDfCsDIzJzQyLjUiTiA1NcKwMjknMjAuMSJF!5e1!3m2!1sru!2skz!4v1680459315296!5m2!1sru!2skz",
+          "imgCollection": [
+            {
+              "original": ".././images/nature/gora_akbota_sankibay/ГораАкботаСанкибай2.jpg",
+              "thumbnail": ".././images/nature/gora_akbota_sankibay/ГораАкботаСанкибай2.jpg"
+            },
+            {
+              "original": ".././images/nature/gora_akbota_sankibay/ГораАкботаСанкибай3.jpg",
+              "thumbnail": ".././images/nature/gora_akbota_sankibay/ГораАкботаСанкибай3.jpg"
+            },
+            {
+              "original": ".././images/nature/gora_akbota_sankibay/ГораАкботаСанкибай4.jpg",
+              "thumbnail": ".././images/nature/gora_akbota_sankibay/ГораАкботаСанкибай4.jpg"
+            },
+            {
+              "original": ".././images/nature/gora_akbota_sankibay/ГораАкботаСанкибай5.jpg",
+              "thumbnail": ".././images/nature/gora_akbota_sankibay/ГораАкботаСанкибай5.jpg"
+            },
+            {
+              "original": ".././images/nature/gora_akbota_sankibay/ГораАкботаСанкибай6.jpg",
+              "thumbnail": ".././images/nature/gora_akbota_sankibay/ГораАкботаСанкибай6.jpg"
+            },
+            {
+              "original": ".././images/nature/gora_akbota_sankibay/ГораАкботаСанкибай7.jpg",
+              "thumbnail": ".././images/nature/gora_akbota_sankibay/ГораАкботаСанкибай7.jpg"
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "natureTitle": "Гора «Зымыстан»",
+          "natureLocation": "Байганинский район",
+          "natureCoordination": "46.737090, 57.171525",
+          "natureMap": "https://www.google.com/maps/@46.7345896,57.1755843,3436m/data=!3m1!1e3",
+          "natureText": "Гора «Зымыстан», протяженностью 2,5 километра в длину и 300-400 метров в ширину, имеет высоту около 300-350 метров.\n      По словам местных жителей, есть две версии происхождения названия \"Зымыстан\". По одной из них, если, поднявшись на самую вершину горы, человек закричит, то его голос будет слышен на расстоянии 15 километров. Согласно второй версии, говорят, что все ведьмы этого региона находятся на вершине этой горы, потому и Зымыстан ( от каз. мыстан - ведьма).\n      \n      На склонах горы, как и на самой вершине, можно найти окаменелости, в основном раковины, моллюски, белемниты.  Особый шарм горе придает красноватый марсианский цвет поверхности на вершине.",
+          "imgBanner": ".././images/nature/gora_zimistan/ГораЗымыстан0.jpg",
+          "imgBannerBg": ".././images/nature/gora_zimistan/ГораЗымыстан1.jpg",
+          "virualMapLink": "https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d28769.609821538983!2d57.1755843!3d46.7345896!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sru!2skz!4v1680459708779!5m2!1sru!2skz",
+          "imgCollection": [
+            {
+              "original": ".././images/nature/gora_zimistan/ГораЗымыстан2.jpg",
+              "thumbnail": ".././images/nature/gora_zimistan/ГораЗымыстан2.jpg"
+            },
+            {
+              "original": ".././images/nature/gora_zimistan/ГораЗымыстан3.jpg",
+              "thumbnail": ".././images/nature/gora_zimistan/ГораЗымыстан3.jpg"
+            },
+            {
+              "original": ".././images/nature/gora_zimistan/ГораЗымыстан4.jpg",
+              "thumbnail": ".././images/nature/gora_zimistan/ГораЗымыстан4.jpg"
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "natureTitle": "Геоморфологический разрез «Айдарлыаша»",
+          "natureLocation": "Хромтауский район",
+          "natureCoordination": "50.216062, 57.783238",
+          "natureMap": "https://www.google.com/maps/place/50%C2%B012'57.8%22N+57%C2%B046'59.7%22E/@50.2158742,57.7810347,625m/data=!3m1!1e3!4m5!3m4!1s0x0:0xb8d98e2a23d29bf3!8m2!3d50.216062!4d57.783238",
+          "natureText": "Геоморфологический разрез «Айдарлыаша»\n\n      В начале 20-го века ученые обнаружили на берегу одной степной речки в Казахстане застывшие в камне раковины моллюсков. возраст которых исчислялся в 350 млн. Это говорило о том, что здесь сотни миллионов лет назад вместо казахстанской степи было море. 40 слоев земной коры были вытеснены на поверхность. В этих слоях были найдены останки растений и животных. Слои расположены на протяжении 1,5 км по побережью реки. Стратотип представляет собой обрыв высотой до 50 метров.\n      \n      В 1996 году на международном конгрессе геологов, проходившем в Пекине, казахстанскому стратотипу был присужден статус глобального, как сохранившего следы систем Карбона и Перми, существовавших 10 миллионов лет назад. А в 2005 году его внесли в республиканский перечень особо охраняемых территорий.",
+          "imgBanner": ".././images/nature/aydarylisha/Айдарлыаша0.jpg",
+          "imgBannerBg": ".././images/nature/aydarylisha/Айдарлыаша1.jpg",
+          "virualMapLink": "https://www.visitaktobe.kz/tours/aydarlyasha/index.html",
+          "imgCollection": [
+            {
+              "original": ".././images/nature/aydarylisha/Айдарлыаша2.jpg",
+              "thumbnail": ".././images/nature/aydarylisha/Айдарлыаша2.jpg"
+            },
+            {
+              "original": ".././images/nature/aydarylisha/Айдарлыаша3.jpg",
+              "thumbnail": ".././images/nature/aydarylisha/Айдарлыаша3.jpg"
+            },
+            {
+              "original": ".././images/nature/aydarylisha/Айдарлыаша4.jpg",
+              "thumbnail": ".././images/nature/aydarylisha/Айдарлыаша4.jpg"
+            },
+            {
+              "original": ".././images/nature/aydarylisha/Айдарлыаша5.jpg",
+              "thumbnail": ".././images/nature/aydarylisha/Айдарлыаша5.jpg"
+            }
+          ]
+        }
+      ],
+    "nature_places":[
+        {
+          "id": 1,
+          "natureTitle": "Мемориальный комплекс «Абат-Байтақ»",
+          "natureLocation": "Кобдинский район",
+          "natureCoordination": "50.095348, 55.907836",
+          "natureMap": "https://www.google.com/maps/place/%D0%90%D0%B1%D0%B0%D1%82-%D0%91%D0%B0%D0%B9%D1%82%D0%B0%D2%9B+%D0%BA%D0%B5%D1%88%D0%B5%D0%BD%D1%96/@50.0953035,55.9077546,42m/data=!3m1!1e3!4m13!1m7!3m6!1s0x0:0xf7f7137b8afa5c5a!2zNTDCsDA1JzQzLjMiTiA1NcKwNTQnMjguMiJF!3b1!8m2!3d50.095348!4d55.907836!3m4!1s0x4182916c87f447f1:0xfb59514247b9d3ec!8m2!3d50.0953623!4d55.9078678",
+          "natureText": "Абат-Байтак (каз. Абат-Байтақ) — некрополь XIV-начала XX веков, погребально-культовый комплекс, а также мавзолей на территории данного некрополя, расположенный в 12 км к югу от посёлка Талдысай Хобдинского района Актюбинской области.\n      С происхождением названия некрополя и мавзолея связано несколько легенд. По самой распространённой из них, здесь был захоронен сын известного философа Асана Кайгы — батыр Абат, который защищал родные земли от набегов калмыков и смог одолеть калмыцкого хана в честной борьбе. После этого Абат смог вернуть сородичам часть захваченных калмыками земель, а калмыки больше не решались нападать на казахов. Та же легенда гласит, что после смерти батыра население построило на месте его гибели мавзолей всего за три дня. В связи с этим к названию добавился эпитет «Байтак» («всенародный»).\n      Другая легенда, записанная в XIX веке, связывает мавзолей с именем одного из монгольских полководцев — Байтака.\n      Некрополь состоит из различных мемориальных сооружений, отличающихся архитектурно-планировочным и художественным решением. В центре некрополя расположен мавзолей Абат-Байтак размерами 9,52×9,8 м, состоящий из двух частей — 11-гранного барабана и конического купола. Основной массив кладки мавзолея выполнен квадратным жжённым кирпичом (24×24×6 см), местами (в частности, в сводах арок) применена кладка прямоугольным кирпичом (24×12×6 см). Во внутренних слоях четверика использован сырцовый кирпич аналогичных размеров.",
+          "imgBanner": ".././images/nature-places/abat-baitak/МемориальныйкомплексАбатБайтак0.jpg",
+          "imgBannerBg": ".././images/nature-places/abat-baitak/МемориальныйкомплексАбатБайтак1.jpg",
+          "virualMapLink": "https://visitaktobe.kz/tours/mkabatbaytak/index.html",
+          "imgCollection": [
+            {
+              "original": ".././images/nature-places/abat-baitak/МемориальныйкомплексАбатБайтак0.jpg",
+              "thumbnail": ".././images/nature-places/abat-baitak/МемориальныйкомплексАбатБайтак0.jpg"
+            },
+            {
+              "original": ".././images/nature-places/abat-baitak/МемориальныйкомплексАбатБайтак1.jpg",
+              "thumbnail": ".././images/nature-places/abat-baitak/МемориальныйкомплексАбатБайтак1.jpg"
+            },
+            {
+              "original": ".././images/nature-places/abat-baitak/МемориальныйкомплексАбатБайтак2.jpg",
+              "thumbnail": ".././images/nature-places/abat-baitak/МемориальныйкомплексАбатБайтак2.jpg"
+            },
+            {
+              "original": ".././images/nature-places/abat-baitak/МемориальныйкомплексАбатБайтак3.jpg",
+              "thumbnail": ".././images/nature-places/abat-baitak/МемориальныйкомплексАбатБайтак3.jpg"
+            },
+            {
+              "original": ".././images/nature-places/abat-baitak/МемориальныйкомплексАбатБайтак4.jpg",
+              "thumbnail": ".././images/nature-places/abat-baitak/МемориальныйкомплексАбатБайтак4.jpg"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "natureTitle": "Мемориальный комплекс «Есета Кокиулы»",
+          "natureLocation": "Алгинский район",
+          "natureCoordination": "50.046297, 57.400670",
+          "natureMap": "https://www.google.com/maps/place/%D0%9C%D0%B0%D0%B2%D0%B7%D0%BE%D0%BB%D0%B5%D0%B9+%D0%95%D1%81%D0%B5%D1%82-%D0%90%D1%82%D0%B0+%D0%91%D0%B0%D1%82%D1%8B%D1%80%D0%B0/@50.0462194,57.4005343,140m/data=!3m1!1e3!4m13!1m7!3m6!1s0x0:0xaa5d6b802cb0ec50!2zNTDCsDAyJzQ3LjAiTiA1N8KwMjQnMDYuNyJF!3b1!8m2!3d50.046378!4d57.401869!3m4!1s0x41822d2b71619ca1:0x5725552e75940726!8m2!3d50.0461304!4d57.4005064",
+          "natureText": "Мавзолей и некрополь Тархана Есета Кокиулы расположены в селе Бестамак Алгинского района Актюбинской области.\n      Памятник историко–культурного наследия дань уважения защитнику отечества, прозванного народом «Есет батыр». Активный участник борьбы с джунгарами и волжскими калмыками, один из близких сподвижников хана Абилкайыра.\n      Мавзолей был построен в 1992 году, в рамках празднования 325-летия Есет батыра. Мавзолей был возведен из розового ракушечника, привезённого из Мангыстау. Высота мавзолея - 11 метров, ширина - 5 метров. Архитектурный облик мавзолея напоминает юрту, чтобы издалека был виден путнику, проходившему в этих местах. Автором мавзолея является Т. Джонысбеков. Также при мавзолее функционирует музей и гостиница для паломников.",
+          "imgBanner": "https://visitaktobe.kz/storage/app/uploads/public/60d/ebb/081/60debb0816d15339209629.jpg",
+          "imgBannerBg": ".././images/nature-places/eset_kokeuly/МемориальныйкомплексЕсета Кокиулы1.jpg",
+          "virualMapLink": "https://visitaktobe.kz/tours/mkesetbatyr/index.html",
+          "imgCollection": [
+            {
+              "original": ".././images/nature-places/eset_kokeuly/МемориальныйкомплексЕсета Кокиулы1.jpg",
+              "thumbnail": ".././images/nature-places/eset_kokeuly/МемориальныйкомплексЕсета Кокиулы1.jpg"
+            },
+            {
+              "original": ".././images/nature-places/eset_kokeuly/МемориальныйкомплексЕсета Кокиулы2.jpg",
+              "thumbnail": ".././images/nature-places/eset_kokeuly/МемориальныйкомплексЕсета Кокиулы2.jpg"
+            },
+            {
+              "original": ".././images/nature-places/eset_kokeuly/МемориальныйкомплексЕсета Кокиулы3.jpg",
+              "thumbnail": ".././images/nature-places/eset_kokeuly/МемориальныйкомплексЕсета Кокиулы3.jpg"
+            },
+            {
+              "original": ".././images/nature-places/eset_kokeuly/МемориальныйкомплексЕсета Кокиулы4.jpg",
+              "thumbnail": ".././images/nature-places/eset_kokeuly/МемориальныйкомплексЕсета Кокиулы4.jpg"
+            },
+            {
+              "original": ".././images/nature-places/eset_kokeuly/МемориальныйкомплексЕсета Кокиулы5.jpg",
+              "thumbnail": ".././images/nature-places/eset_kokeuly/МемориальныйкомплексЕсета Кокиулы5.jpg"
+            },
+            {
+              "original": ".././images/nature-places/eset_kokeuly/МемориальныйкомплексЕсета Кокиулы6.jpg",
+              "thumbnail": ".././images/nature-places/eset_kokeuly/МемориальныйкомплексЕсета Кокиулы6.jpg"
+            },
+            {
+              "original": ".././images/nature-places/eset_kokeuly/МемориальныйкомплексЕсета Кокиулы7.jpg",
+              "thumbnail": ".././images/nature-places/eset_kokeuly/МемориальныйкомплексЕсета Кокиулы7.jpg"
+            },
+            {
+              "original": ".././images/nature-places/eset_kokeuly/МемориальныйкомплексЕсета Кокиулы8.jpg",
+              "thumbnail": ".././images/nature-places/eset_kokeuly/МемориальныйкомплексЕсета Кокиулы8.jpg"
+            },
+            {
+              "original": ".././images/nature-places/eset_kokeuly/МемориальныйкомплексЕсета Кокиулы9.jpg",
+              "thumbnail": ".././images/nature-places/eset_kokeuly/МемориальныйкомплексЕсета Кокиулы9.jpg"
+            },
+            {
+              "original": ".././images/nature-places/eset_kokeuly/МемориальныйкомплексЕсета Кокиулы10.jpg",
+              "thumbnail": ".././images/nature-places/eset_kokeuly/МемориальныйкомплексЕсета Кокиулы10.jpg"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "natureTitle": "Мавзолей «Есет-Дарибая»",
+          "natureLocation": "Шалкарский район",
+          "natureCoordination": "47.333494, 59.138164",
+          "natureMap": "https://www.google.com/maps/place/%D0%9C%D0%B0%D0%B2%D0%B7%D0%BE%D0%BB%D0%B5%D0%B9+%D0%94%D0%B0%D1%80%D0%B8%D0%B1%D0%B0%D0%B9/@47.3334588,59.1381844,62m/data=!3m1!1e3!4m13!1m7!3m6!1s0x0:0x99c0d554964b0e87!2zNDfCsDIwJzAwLjYiTiA1OcKwMDgnMTcuNCJF!3b1!8m2!3d47.333494!4d59.138164!3m4!1s0x418e1522fe91d2a7:0xa84fd7f93869d390!8m2!3d47.3335263!4d59.1381858",
+          "natureText": "Мавзолей Есет-Дарибая – памятник воздвигнутый в честь известного казахского батыра Есет Котыбарулы жившего в 19 веке. В первый раз мавзолей был построен в 1890 году из необожжённого и обожжённого кирпича в центре с куполом, но со временем здание было разрушено. По инициативе жителей Шалкарского района данный мавзолей построили во второй раз в 1993 году украсив национальными орнаментами и с учетом требований современной архитектурной культуры. По отношению к Мекке в правой части мавзолея находится могила Есета, в левой его брата Дарибая.",
+          "imgBanner": ".././images/nature-places/eset_daribay/МавзолейЕсетДарибая0.jpg",
+          "imgBannerBg": ".././images/nature-places/eset_daribay/МавзолейЕсетДарибая1.jpg",
+          "virualMapLink": "https://visitaktobe.kz/tours/mavzoleyesetderibay/index.html",
+          "imgCollection": [
+            {
+              "original": ".././images/nature-places/eset_daribay/МавзолейЕсетДарибая2.jpg",
+              "thumbnail": ".././images/nature-places/eset_daribay/МавзолейЕсетДарибая2.jpg"
+            },
+            {
+              "original": ".././images/nature-places/eset_daribay/МавзолейЕсетДарибая3.jpg",
+              "thumbnail": ".././images/nature-places/eset_daribay/МавзолейЕсетДарибая3.jpg"
+            },
+            {
+              "original": ".././images/nature-places/eset_daribay/МавзолейЕсетДарибая4.jpg",
+              "thumbnail": ".././images/nature-places/eset_daribay/МавзолейЕсетДарибая4.jpg"
+            },
+            {
+              "original": ".././images/nature-places/eset_daribay/МавзолейЕсетДарибая5.jpg",
+              "thumbnail": ".././images/nature-places/eset_daribay/МавзолейЕсетДарибая5.jpg"
+            },
+            {
+              "original": ".././images/nature-places/eset_daribay/МавзолейЕсетДарибая6.jpg",
+              "thumbnail": ".././images/nature-places/eset_daribay/МавзолейЕсетДарибая6.jpg"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "natureTitle": "Мемориальный комплекс «Кобыланды батыр»",
+          "natureLocation": "Кобдинский район;",
+          "natureCoordination": "50.848524, 54.838053",
+          "natureMap": "https://www.google.com/maps/place/%D0%9C%D0%B0%D0%B2%D0%B7%D0%BE%D0%BB%D0%B5%D0%B9+%D0%9A%D0%BE%D0%B1%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B+%D0%B1%D0%B0%D1%82%D1%8B%D1%80%D0%B0/@50.8486928,54.8368269,384m/data=!3m1!1e3!4m13!1m7!3m6!1s0x0:0x9977270614d01804!2zNTDCsDUwJzU0LjciTiA1NMKwNTAnMTcuMCJF!3b1!8m2!3d50.848524!4d54.838053!3m4!1s0x4179b047031d7875:0x9dd6fb66218d6f8a!8m2!3d50.848719!4d54.8378507",
+          "natureText": "Кобланды батыр - уникальная личность не только в казахской истории, это пример когда легендарный персонаж, герой эпосов и легенд оказывается вполне реальной исторической личностью жившей в XV веке, и сыгравшей большую роль в исторической судьбе целого региона.\n      В 2007 году был воздвигнут мавзолей, который не имеет аналогов среди подобного рода строений ХХI века. Высота мавзолея – 17,5 метров, ширина – 12 м. Комплекс был создан с использованием элементов военной тематики. Мавзолей представляет собой круглое здание в виде воинского шлема, которое было воздвигнуто вокруг бывшего захоронения. В центре мавзолея сдвинуты вместе три копья с серебряными наконечниками, они закреплены щитом, символизирующим единство трех жузов, готовых защищать родную землю. По дороге к мавзолею установлены камни-менгиры, как сарбазы, охраняющие покой полководца. Сбоку в виде воинского лука - здание, в котором расположился небольшой музей и гостиница для туристов.\n      Около мавзолея Кобланды находятся камень длиной три метра, шириной 60 сантиметров, о который батыр точил свою саблю. Сабля сохранилась до наших дней, она находится на месте захоронения.\n      В устах народа сохранились 29 вариантов поэмы «Кобыланды батыр».\n      Мемориальный комплекс является сакральным и туристическим объектом.",
+          "imgBanner": ".././images/nature-places/kobilandy_batyr/МемориальныйкомплексКобыландыбатыр0.jpg",
+          "imgBannerBg": ".././images/nature-places/kobilandy_batyr/МемориальныйкомплексКобыландыбатыр1.jpg",
+          "virualMapLink": "https://visitaktobe.kz/tours/mkkoblandybatyr/index.html",
+          "imgCollection": [
+            {
+              "original": ".././images/nature-places/kobilandy_batyr/МемориальныйкомплексКобыландыбатыр2.jpg",
+              "thumbnail": ".././images/nature-places/kobilandy_batyr/МемориальныйкомплексКобыландыбатыр2.jpg"
+            },
+            {
+              "original": ".././images/nature-places/kobilandy_batyr/МемориальныйкомплексКобыландыбатыр3.jpg",
+              "thumbnail": ".././images/nature-places/kobilandy_batyr/МемориальныйкомплексКобыландыбатыр3.jpg"
+            },
+            {
+              "original": ".././images/nature-places/kobilandy_batyr/МемориальныйкомплексКобыландыбатыр4.jpg",
+              "thumbnail": ".././images/nature-places/kobilandy_batyr/МемориальныйкомплексКобыландыбатыр4.jpg"
+            },
+            {
+              "original": ".././images/nature-places/kobilandy_batyr/МемориальныйкомплексКобыландыбатыр5.jpg",
+              "thumbnail": ".././images/nature-places/kobilandy_batyr/МемориальныйкомплексКобыландыбатыр5.jpg"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "natureTitle": "Мемориальный комплекс «Хан моласы»",
+          "natureLocation": "Айтекебийский район",
+          "natureCoordination": "49.954875, 62.890478",
+          "natureMap": "https://www.google.com/maps/place/%D0%A5%D0%90%D0%9D+%D0%BC%D0%BE%D0%BB%D0%B0%D1%81%D1%8B/@49.9547834,62.8901454,169m/data=!3m1!1e3!4m13!1m7!3m6!1s0x0:0x315b247c2bb9cd1!2zNDnCsDU3JzI0LjgiTiA2MsKwNTInMDUuMyJF!3b1!8m2!3d49.956878!4d62.868125!3m4!1s0x422f314e71dc2911:0x5364cf618393dc8b!8m2!3d49.9548993!4d62.8906332",
+          "natureText": "Одним из известных сакральных мест в Актюбинской области является мемориальный комплекс на некрополе «Хан моласы», где захоронен хан младшего жуза Абулхаир хан.\n      До конца 1990-х годов это место в Актюбинской области представляло собой большое кладбище, возникшее во второй половине XVIII в. На месте некрополя были проведены многочисленные археологические исследования с целью доказать подлинность захоронения в нем Абулхаир хана. В 2011 году учеными из Венгрии, на основе ДНК останков одного из захоронений, удалось подтвердить, что они практически на 100 процентов соответствовали ДНК прямых и ныне живущих потомков хана. Более того, был воссоздан облик самого Абулхаир хана.\n      К празднику 550-летия со дня основания Казахского ханства в 2015-ом году на месте некрополя «Хан моласы» был построен мемориальный комплекс, включающий памятную стелу и надгробный мавзолей. Архитектурный памятник выполнен из белого гранита, имеет высоту 25 метров. Мавзолей украшен родовыми тамгами казахского народа. Три стелы-знамени, взмывающие по центру комплекса ввысь, символизируют концепцию деятельности Абулхаир хана, сумевшего объединить казахские жузы. Всего в некрополе «Хан моласы» находится около 1000 могил.\n      Объект считается сакральным местом для совершения паломничества, а также является одним из красивейших архитектурных сооружений Казахстана с реальной исторической основой.",
+          "imgBanner": ".././images/nature-places/han_molasy/МемориальныйкомплексХанмоласы0.jpg",
+          "imgBannerBg": ".././images/nature-places/han_molasy/МемориальныйкомплексХан моласы1.jpg",
+          "virualMapLink": "https://visitaktobe.kz/tours/mkkhanmolasy/index.html",
+          "imgCollection": [
+            {
+              "original": ".././images/nature-places/han_molasy/МемориальныйкомплексХан моласы2.jpg",
+              "thumbnail": ".././images/nature-places/han_molasy/МемориальныйкомплексХан моласы2.jpg"
+            },
+            {
+              "original": ".././images/nature-places/han_molasy/МемориальныйкомплексХан моласы3.jpg",
+              "thumbnail": ".././images/nature-places/han_molasy/МемориальныйкомплексХан моласы3.jpg"
+            },
+            {
+              "original": ".././images/nature-places/han_molasy/МемориальныйкомплексХан моласы4.jpg",
+              "thumbnail": ".././images/nature-places/han_molasy/МемориальныйкомплексХан моласы4.jpg"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "natureTitle": "Мавзолей «Исатая Тайманова»",
+          "natureLocation": "Кобдинский район",
+          "natureCoordination": "50.266508, 54.565860",
+          "natureMap": "https://www.google.com/maps/place/%D0%9C%D0%B0%D0%B2%D0%B7%D0%BE%D0%BB%D0%B5%D0%B9+%D0%98%D1%81%D0%B0%D1%82%D0%B0%D1%8F+%D0%A2%D0%B0%D0%B9%D0%BC%D0%B0%D0%BD%D0%BE%D0%B2%D0%B0/@50.2665,54.5636671,636m/data=!3m1!1e3!4m5!3m4!1s0x41778ba0973067ab:0x36bdcebe2be711e6!8m2!3d50.2664404!4d54.5657423",
+          "natureText": "Мавзолей «Исатая Тайманова» был построен в 2014 году. Работу по сооружению памятника возглавил мангистауский мастер Нурсултан Имашев по его словам, высота мавзолея составляет 10,5 метров, а ширина — 6 метров. Внутри мавзолея есть изображение Исатая Тайманова, высечены годы жизни батыра и его сына Оспана, который похоронен рядом с отцом. Стены мавзолея также украшают строки из стихотворения Махамбета:\n      «Родился лев Исатай,\n      Он не смог добиться своего,\n      Прошла его жизнь в мечтаниях…».",
+          "imgBanner": ".././images/nature-places/isatai_taimanov/МавзолейИсатаяТайманова0.jpg",
+          "imgBannerBg": ".././images/nature-places/isatai_taimanov/МавзолейИсатаяТайманова1.jpg",
+          "virualMapLink": "https://www.visitaktobe.kz/tours/mavzoleytaymanov/index.html",
+          "imgCollection": [
+            {
+              "original": ".././images/nature-places/isatai_taimanov/МавзолейИсатаяТайманова0.jpg",
+              "thumbnail": ".././images/nature-places/isatai_taimanov/МавзолейИсатаяТайманова0.jpg"
+            },
+            {
+              "original": ".././images/nature-places/isatai_taimanov/МавзолейИсатаяТайманова1.jpg",
+              "thumbnail": ".././images/nature-places/isatai_taimanov/МавзолейИсатаяТайманова1.jpg"
+            }
+          ]
+        }
+      ],
+      "landmark_places":[
+        {
+          "id": 1,
+          "natureTitle": "Центральный стадион имени Кобыланды батыра",
+          "natureLocation": "пр. Абилкайыр Хана, 56",
+          "natureMap": "https://www.google.com/maps/place/%D0%A6%D0%B5%D0%BD%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9+%D1%81%D1%82%D0%B0%D0%B4%D0%B8%D0%BE%D0%BD+%D0%B8%D0%BC.+%D0%9A%D0%BE%D0%B1%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B+%D0%B1%D0%B0%D1%82%D1%8B%D1%80%D0%B0/@50.2916592,57.1566145,683m/data=!3m2!1e3!4b1!4m5!3m4!1s0x4182222c98ca9619:0xb08ca4fbd7fd7005!8m2!3d50.2916592!4d57.1588032",
+          "natureText": "Домашняя арена футбольного клуба «Актобе». Стадион был построен в 1975 году и предназначен только для проведения футбольных матчей. Размеры поля составляют 105х68 м. Стадион может вместить на своей территории до 13 500 человек. Является самым посещаемым в стране стадионом, подчеркивая статус Актобе как футбольной столицы Казахстана. Стадион полностью соответствует международным стандартам и считается одним из лучших в Казахстане по технической оснащенности и оригинальности конструкции. Имеются четыре трибуны, названые по сторонам света. Главная трибуна - западная, на ней также расположены места для комментаторов и VIP ложа. Над всеми зрительскими местами имеется крыша.\n      Знаменитый \"13-ый сектор\" - болельщики ФК \"Актобе\" - присутствуют на каждом домашнем матче, создавая особую атмосферу на Центральном стадионе.",
+          "imgBanner": ".././images/landmark_places/stadion_kobylandy_batyr/ЦентральныйСтадионИмениКобыландыБатыра0.jpg",
+          "imgBannerBg": ".././images/landmark_places/stadion_kobylandy_batyr/ЦентральныйСтадионИмениКобыландыБатыра1.jpg",
+          "virualMapLink": "https://www.google.com/maps/embed?pb=!4v1680958692771!6m8!1m7!1sCAoSLEFGMVFpcE9VM3NWa0hNUGFhTFdQTmlUN1R2aTh1bHVDWkRnTUNYZTJoMkhn!2m2!1d50.2915877!2d57.1594978!3f210.55693747604008!4f8.12100107029633!5f0.7820865974627469",
+          "imgCollection": [
+            {
+              "original": ".././images/landmark_places/stadion_kobylandy_batyr/ЦентральныйСтадионИмениКобыландыБатыра1.jpg",
+              "thumbnail": ".././images/landmark_places/stadion_kobylandy_batyr/ЦентральныйСтадионИмениКобыландыБатыра1.jpg"
+            },
+            {
+              "original": ".././images/landmark_places/stadion_kobylandy_batyr/ЦентральныйСтадионИмениКобыландыБатыра2.jpg",
+              "thumbnail": ".././images/landmark_places/stadion_kobylandy_batyr/ЦентральныйСтадионИмениКобыландыБатыра2.jpg"
+            },
+            {
+              "original": ".././images/landmark_places/stadion_kobylandy_batyr/ЦентральныйСтадионИмениКобыландыБатыра3.jpg",
+              "thumbnail": ".././images/landmark_places/stadion_kobylandy_batyr/ЦентральныйСтадионИмениКобыландыБатыра3.jpg"
+            },
+            {
+              "original": ".././images/landmark_places/stadion_kobylandy_batyr/ЦентральныйСтадионИмениКобыландыБатыра4.jpg",
+              "thumbnail": ".././images/landmark_places/stadion_kobylandy_batyr/ЦентральныйСтадионИмениКобыландыБатыра4.jpg"
+            },
+            {
+              "original": ".././images/landmark_places/stadion_kobylandy_batyr/ЦентральныйСтадионИмениКобыландыБатыра5.jpg",
+              "thumbnail": ".././images/landmark_places/stadion_kobylandy_batyr/ЦентральныйСтадионИмениКобыландыБатыра5.jpg"
+            },
+            {
+              "original": ".././images/landmark_places/stadion_kobylandy_batyr/ЦентральныйСтадионИмениКобыландыБатыра6.jpg",
+              "thumbnail": ".././images/landmark_places/stadion_kobylandy_batyr/ЦентральныйСтадионИмениКобыландыБатыра6.jpg"
+            },
+            {
+              "original": ".././images/landmark_places/stadion_kobylandy_batyr/ЦентральныйСтадионИмениКобыландыБатыра7.jpg",
+              "thumbnail": ".././images/landmark_places/stadion_kobylandy_batyr/ЦентральныйСтадионИмениКобыландыБатыра7.jpg"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "natureTitle": "Мемориальный памятный комплекс Герою Советского Союза Алие Молдагуловой",
+          "natureLocation": "на перекрестке пр.А.Молдагуловой и ул. Бр.Жубановых",
+          "natureCoordination": "50.287698, 57.152472",
+          "natureMap": "https://www.google.com/maps/place/%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA+%D0%90%D0%BB%D0%B8%D0%B5+%D0%9C%D0%BE%D0%BB%D0%B4%D0%B0%D0%B3%D1%83%D0%BB%D0%BE%D0%B2%D0%BE%D0%B9/@50.2876855,57.1524448,59m/data=!3m1!1e3!4m13!1m7!3m6!1s0x0:0x3c7ba8edaa4592cd!2zNTDCsDE3JzE1LjciTiA1N8KwMDknMDguOSJF!3b1!8m2!3d50.287698!4d57.152472!3m4!1s0x418223cd4ce2450d:0x7c4c568cf66c53d5!8m2!3d50.2877534!4d57.152558",
+          "natureText": "Мемориальный комплекс открыт в 2005 году к 80-летнему юбилею со дня рождения Героя Советского Союза Алии Молдагуловой. Знаменитая казахская девушка-снайпер, уничтожившая 78 солдат и офицеров противника во время Великой Отечественной войны, прославилась не только своими способностями, но и искренней любовью к родине и стремлением её защищать.\n      Алия Молдагулова была смертельно ранена в бою в 1944 году. Ей посмертно присвоено звание Героя Советсткого Союза, она награждена орденом Ленина.\n      Установленный монумент – это не только дань памяти Алие, но и символ любви к Родине. Он призван взывать к гордости за свою страну и ее героев.",
+          "imgBanner": ".././images/landmark_places/alia_muldagulova/МемориальныйПамятныкАлиеМолдагуловой0.jpg",
+          "imgBannerBg": ".././images/landmark_places/alia_muldagulova/МемориальныйПамятныкАлиеМолдагуловой1.jpg",
+          "virualMapLink": "https://www.google.com/maps/embed?pb=!4v1680958592091!6m8!1m7!1sCAoSLEFGMVFpcE1GeUtjWGt3OVY5YVducEFuV1lhQkF6UHRQV3g5ZmszWmNLS0ds!2m2!1d50.2877389!2d57.1525402!3f354.23609788016614!4f5.20438502707492!5f0.7820865974627469",
+          "imgCollection": [
+            {
+              "original": ".././images/landmark_places/alia_muldagulova/МемориальныйПамятныкАлиеМолдагуловой1.jpg",
+              "thumbnail": ".././images/landmark_places/alia_muldagulova/МемориальныйПамятныкАлиеМолдагуловой1.jpg"
+            },
+            {
+              "original": ".././images/landmark_places/alia_muldagulova/МемориальныйПамятныкАлиеМолдагуловой2.jpg",
+              "thumbnail": ".././images/landmark_places/alia_muldagulova/МемориальныйПамятныкАлиеМолдагуловой2.jpg"
+            },
+            {
+              "original": ".././images/landmark_places/alia_muldagulova/МемориальныйПамятныкАлиеМолдагуловой3.jpg",
+              "thumbnail": ".././images/landmark_places/alia_muldagulova/МемориальныйПамятныкАлиеМолдагуловой3.jpg"
+            },
+            {
+              "original": ".././images/landmark_places/alia_muldagulova/МемориальныйПамятныкАлиеМолдагуловой4.jpeg",
+              "thumbnail": ".././images/landmark_places/alia_muldagulova/МемориальныйПамятныкАлиеМолдагуловой4.jpeg"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "natureTitle": "Мемориальный памятный комплекс Герою Советского Союза Алие Молдагуловой",
+          "natureLocation": "на перекрестке пр.А.Молдагуловой и ул. Бр.Жубановых",
+          "natureCoordination": "50.293201, 57.169999",
+          "natureMap": "https://www.google.com/maps/place/%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA+%D0%90%D0%BB%D0%B8%D0%B5+%D0%9C%D0%BE%D0%BB%D0%B4%D0%B0%D0%B3%D1%83%D0%BB%D0%BE%D0%B2%D0%BE%D0%B9/@50.2876855,57.1524448,59m/data=!3m1!1e3!4m13!1m7!3m6!1s0x0:0x3c7ba8edaa4592cd!2zNTDCsDE3JzE1LjciTiA1N8KwMDknMDguOSJF!3b1!8m2!3d50.287698!4d57.152472!3m4!1s0x418223cd4ce2450d:0x7c4c568cf66c53d5!8m2!3d50.2877534!4d57.152558",
+          "natureText": "Мемориальный комплекс открыт в 2005 году к 80-летнему юбилею со дня рождения Героя Советского Союза Алии Молдагуловой. Знаменитая казахская девушка-снайпер, уничтожившая 78 солдат и офицеров противника во время Великой Отечественной войны, прославилась не только своими способностями, но и искренней любовью к родине и стремлением её защищать.\n      Алия Молдагулова была смертельно ранена в бою в 1944 году. Ей посмертно присвоено звание Героя Советсткого Союза, она награждена орденом Ленина.\n      Установленный монумент – это не только дань памяти Алие, но и символ любви к Родине. Он призван взывать к гордости за свою страну и ее героев.",
+          "imgBanner": ".././images/landmark_places/ww2_obilisk/ОбелискСлавыПавшимАктюбинцамЗаРодину0.jpg",
+          "imgBannerBg": ".././images/landmark_places/ww2_obilisk/ОбелискСлавыПавшимАктюбинцамЗаРодину1.jpg",
+          "virualMapLink": "https://www.google.com/maps/embed?pb=!4v1680958592091!6m8!1m7!1sCAoSLEFGMVFpcE1GeUtjWGt3OVY5YVducEFuV1lhQkF6UHRQV3g5ZmszWmNLS0ds!2m2!1d50.2877389!2d57.1525402!3f354.23609788016614!4f5.20438502707492!5f0.7820865974627469",
+          "imgCollection": [
+            {
+              "original": ".././images/landmark_places/ww2_obilisk/ОбелискСлавыПавшимАктюбинцамЗаРодину1.jpg",
+              "thumbnail": ".././images/landmark_places/ww2_obilisk/ОбелискСлавыПавшимАктюбинцамЗаРодину1.jpg"
+            },
+            {
+              "original": ".././images/landmark_places/ww2_obilisk/ОбелискСлавыПавшимАктюбинцамЗаРодину2.jpg",
+              "thumbnail": ".././images/landmark_places/ww2_obilisk/ОбелискСлавыПавшимАктюбинцамЗаРодину2.jpg"
+            },
+            {
+              "original": ".././images/landmark_places/ww2_obilisk/ОбелискСлавыПавшимАктюбинцамЗаРодину3.jpg",
+              "thumbnail": ".././images/landmark_places/ww2_obilisk/ОбелискСлавыПавшимАктюбинцамЗаРодину3.jpg"
+            },
+            {
+              "original": ".././images/landmark_places/ww2_obilisk/ОбелискСлавыПавшимАктюбинцамЗаРодину4.jpg",
+              "thumbnail": ".././images/landmark_places/ww2_obilisk/ОбелискСлавыПавшимАктюбинцамЗаРодину4.jpg"
+            },
+            {
+              "original": ".././images/landmark_places/ww2_obilisk/ОбелискСлавыПавшимАктюбинцамЗаРодину5.jpg",
+              "thumbnail": ".././images/landmark_places/ww2_obilisk/ОбелискСлавыПавшимАктюбинцамЗаРодину5.jpg"
+            },
+            {
+              "original": ".././images/landmark_places/ww2_obilisk/ОбелискСлавыПавшимАктюбинцамЗаРодину6.jpg",
+              "thumbnail": ".././images/landmark_places/ww2_obilisk/ОбелискСлавыПавшимАктюбинцамЗаРодину6.jpg"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "natureTitle": "Стела «Қазақ халқына мың алғыс»",
+          "natureLocation": "напротив Парка им. Первого Президента Республики Казахстан;",
+          "natureCoordination": "50.283999, 57.184456",
+          "natureMap": "https://www.google.com/maps/place/%D2%9A%D0%B0%D0%B7%D0%B0%D2%9B+%D0%A5%D0%B0%D0%BB%D2%9B%D1%8B%D0%BD%D0%B0+%D0%9C%D1%8B%D2%A3+%D0%90%D0%BB%D2%93%D1%8B%D1%81/@50.2842752,57.1839757,203m/data=!3m1!1e3!4m5!3m4!1s0x41822162fc4aa29f:0x9ab0f5197089ac5!8m2!3d50.2840192!4d57.1845067",
+          "natureText": "Стела «Қазақ халқына мың алғыс» (с каз. - \"Тысяча благодарностей Казахскому народу)\n\n      Монумент символизирует благодарность казахскому народу от имени всех этносов, которые когда-то были депортированы в Казахстан, и для которых он стал настоящей родиной. Проект реализован на средства местных предпринимателей в рамках программы «Туған жер».\n      \n      Памятник высотой 30 метров условно разделен на пять фрагментов, каждый из них в отдельности имеет свой особый смысл. Так, один из фрагментов с изображением карты Казахстана на земном шаре, символизирует крепкую основу незыблемости территории страны. Здесь также отображена информация об истории государства с древнейшего периода до современности.\n      Идею прогрессивного и поступательного развития в будущее представляет собой основной ствол стелы, выполненный в виде семигранного столба. Семь граней подчеркивают сакральную чистоту помыслов и идей развития.\n      В верхней части стелы сооружена композиция, отображающая образ юрты - символа домашнего очага, родной истории, свободного народа. Завершает композицию изображение орла с развернутыми к полету крыльями, обозначающее Независимость страны, стремление к преемственному и прогрессивному развитию. Позади стелы расположилась 85-метровая колоннада, состоящая из 14 колонн.",
+          "imgBanner": ".././images/landmark_places/stela_qazaq_halkyna_myn_algys/СтелаКазакХалкынаМынАлгыс0.jpg",
+          "imgBannerBg": ".././images/landmark_places/stela_qazaq_halkyna_myn_algys/СтелаКазакХалкынаМынАлгыс1.jpg",
+          "virualMapLink": "https://www.google.com/maps/embed?pb=!4v1680963204123!6m8!1m7!1sCAoSLEFGMVFpcE52akhiTnNMakxuZEdGS1ltcWJoc2FRb3FPSlR5LU9JcTU1Rmlh!2m2!1d50.2841034!2d57.1848602!3f30.840466388506886!4f17.762628737526256!5f0.7820865974627469",
+          "imgCollection": [
+            {
+              "original": ".././images/landmark_places/stela_qazaq_halkyna_myn_algys/СтелаКазакХалкынаМынАлгыс1.jpg",
+              "thumbnail": ".././images/landmark_places/stela_qazaq_halkyna_myn_algys/СтелаКазакХалкынаМынАлгыс1.jpg"
+            },
+            {
+              "original": ".././images/landmark_places/stela_qazaq_halkyna_myn_algys/СтелаКазакХалкынаМынАлгыс2.jpg",
+              "thumbnail": ".././images/landmark_places/stela_qazaq_halkyna_myn_algys/СтелаКазакХалкынаМынАлгыс2.jpg"
+            },
+            {
+              "original": ".././images/landmark_places/stela_qazaq_halkyna_myn_algys/СтелаКазакХалкынаМынАлгыс3.jpg",
+              "thumbnail": ".././images/landmark_places/stela_qazaq_halkyna_myn_algys/СтелаКазакХалкынаМынАлгыс3.jpg"
+            },
+            {
+              "original": ".././images/landmark_places/stela_qazaq_halkyna_myn_algys/СтелаКазакХалкынаМынАлгыс4.jpg",
+              "thumbnail": ".././images/landmark_places/stela_qazaq_halkyna_myn_algys/СтелаКазакХалкынаМынАлгыс4.jpg"
+            },
+            {
+              "original": ".././images/landmark_places/stela_qazaq_halkyna_myn_algys/СтелаКазакХалкынаМынАлгыс5.jpg",
+              "thumbnail": ".././images/landmark_places/stela_qazaq_halkyna_myn_algys/СтелаКазакХалкынаМынАлгыс5.jpg"
+            },
+            {
+              "original": ".././images/landmark_places/stela_qazaq_halkyna_myn_algys/СтелаКазакХалкынаМынАлгыс6.jpg",
+              "thumbnail": ".././images/landmark_places/stela_qazaq_halkyna_myn_algys/СтелаКазакХалкынаМынАлгыс6.jpg"
+            },
+            {
+              "original": ".././images/landmark_places/stela_qazaq_halkyna_myn_algys/СтелаКазакХалкынаМынАлгыс7.jpg",
+              "thumbnail": ".././images/landmark_places/stela_qazaq_halkyna_myn_algys/СтелаКазакХалкынаМынАлгыс7.jpg"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "natureTitle": "Свя́то-Нико́льский кафедральный собор",
+          "natureLocation": " ул. М. Маметовой, 6;",
+          "natureCoordination": "50.286920, 57.192843",
+          "natureMap": "https://www.google.com/maps/place/%D0%A1%D0%B2%D1%8F%D1%82%D0%BE-%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9+%D0%9A%D0%B0%D1%84%D0%B5%D0%B4%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9+%D1%81%D0%BE%D0%B1%D0%BE%D1%80/@50.286917,57.1900408,683m/data=!3m2!1e3!4b1!4m5!3m4!1s0x418221651a9b32ab:0xf9a47b92728aa680!8m2!3d50.286917!4d57.1922348",
+          "natureText": "Главным православным храмом города и области является Свято-Никольский кафедральный Собор. Он был построен в очень короткие сроки на средства благотворителей и прихожан, открывшись 22 сентября 2008 года. Собор носит имя святителя Николая (Могилевского) и хранит в себе святыню - частицу его мощей. Храм возведён в Псково-Новгородском стиле. Площадь застройки составляет 778,46 кв. м. Собор имеет два этажа – нижний крестильный храм и верхний. На цокольном этаже размещается крестильный храм, предназначенный для таинства крещения. Здание собора красиво обложено красным кирпичом с желтым узором.",
+          "imgBanner": ".././images/landmark_places/sobor/Свя́то-Нико́льскийКафедральныйСобор0.jpg",
+          "imgBannerBg": ".././images/landmark_places/sobor/Свя́то-Нико́льскийКафедральныйСобор1.jpg",
+          "virualMapLink": "https://visitaktobe.kz/tours/sobor/index.html",
+          "imgCollection": [
+            {
+              "original": ".././images/landmark_places/sobor/Свя́то-Нико́льскийКафедральныйСобор1.jpg",
+              "thumbnail": ".././images/landmark_places/sobor/Свя́то-Нико́льскийКафедральныйСобор1.jpg"
+            },
+            {
+              "original": ".././images/landmark_places/sobor/Свя́то-Нико́льскийКафедральныйСобор2.jpg",
+              "thumbnail": ".././images/landmark_places/sobor/Свя́то-Нико́льскийКафедральныйСобор2.jpg"
+            },
+            {
+              "original": ".././images/landmark_places/sobor/Свя́то-Нико́льскийКафедральныйСобор3.jpg",
+              "thumbnail": ".././images/landmark_places/sobor/Свя́то-Нико́льскийКафедральныйСобор3.jpg"
+            },
+            {
+              "original": ".././images/landmark_places/sobor/Свя́то-Нико́льскийКафедральныйСобор4.jpg",
+              "thumbnail": ".././images/landmark_places/sobor/Свя́то-Нико́льскийКафедральныйСобор4.jpg"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "natureTitle": "Областная центральная мечеть «Нур Гасыр»",
+          "natureLocation": "пр-т. Абилкайыр хана 92;",
+          "natureCoordination": "50.282269, 57.189501",
+          "natureMap": "https://www.google.com/maps/place/%D0%9E%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D0%BD%D0%B0%D1%8F+%D1%86%D0%B5%D0%BD%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F+%D0%BC%D0%B5%D1%87%D0%B5%D1%82%D1%8C+%C2%AB%D0%9D%D1%83%D1%80+%D0%93%D0%B0%D1%81%D1%8B%D1%80%C2%BB/@50.2817073,57.1869322,683m/data=!3m2!1e3!4b1!4m5!3m4!1s0x418221616348c2b1:0x3f65384b36966ff3!8m2!3d50.2817073!4d57.1891262",
+          "natureText": "Областная центральная мечеть \"Нур Гасыр\" рассчитана на 3500 молящихся. Торжественное открытие состоялось 22 сентября 2008 года при участии президента Республики Казахстан - Нурсултана Назарбаева, президента России - Дмитрия Медведева и бывшего Верховного муфтия Казахстана - Абсаттара Дербисали.\n      Здание мечети представляет из себя квадрат, по углам которого расположены минареты высотой 63 метра каждый. Купол мечети высотой 40 метров и диаметром 20 метров расположен в самом центре здания. В здании мечети также расположены областной музей «Руханият», комната для чтения Корана, зал бракосочетания, медресе на 25 учащихся и столовая на 300 человек.\n      Внутренняя часть мечети, колонны, полы, лестницы облицованы мрамором разных цветов и гранитом серого цвета. Перед мечетью установлены фонтан и сквер.",
+          "imgBanner": ".././images/landmark_places/nur_gasir/НурГасыр0.jpg",
+          "imgBannerBg": ".././images/landmark_places/nur_gasir/НурГасыр1.jpg",
+          "virualMapLink": "https://visitaktobe.kz/tours/mechet/index.html",
+          "imgCollection": [
+            {
+              "original": ".././images/landmark_places/nur_gasir/НурГасыр1.jpg",
+              "thumbnail": ".././images/landmark_places/nur_gasir/НурГасыр1.jpg"
+            },
+            {
+              "original": ".././images/landmark_places/nur_gasir/НурГасыр2.jpeg",
+              "thumbnail": ".././images/landmark_places/nur_gasir/НурГасыр2.jpeg"
+            },
+            {
+              "original": ".././images/landmark_places/nur_gasir/НурГасыр3.jpeg",
+              "thumbnail": ".././images/landmark_places/nur_gasir/НурГасыр3.jpeg"
+            },
+            {
+              "original": ".././images/landmark_places/nur_gasir/НурГасыр4.jpeg",
+              "thumbnail": ".././images/landmark_places/nur_gasir/НурГасыр4.jpeg"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "natureTitle": "Мемориальный памятник имени Ахмета Жубанова",
+          "natureLocation": "пр-т. Победы, 31",
+          "natureCoordination": "50.313115, 57.147020",
+          "natureMap": "https://www.google.com/maps/place/%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA+%D0%B8%D0%BC.+%D0%90.%D0%9A.+%D0%96%D1%83%D0%B1%D0%B0%D0%BD%D0%BE%D0%B2%D0%B0/@50.3131766,57.1467607,177m/data=!3m1!1e3!4m5!3m4!1s0x418221f44b6ec15b:0xf2476bb978acb116!8m2!3d50.3131772!4d57.1467603",
+          "natureText": "Мемориал был открыт в 2006 году в честь 100-летия выдающегося казахского композитора. На торжественном открытии памятника выступили музыканты Академического оркестра казахских народных инструментов им. Курмангазы, одним из создателей которого является Ахмет Жубанов.\n\n      Ахмет Жубанов - композитор, дирижер, музыковед, этнограф, народный артист КазССР, дирижер академик АН КазССР, лауреат Государственной премии КазССР.",
+          "imgBanner": ".././images/landmark_places/ahmet_zhubanov/МемориальныйПамятникИмениАхметаЖубанова0.jpg",
+          "imgBannerBg": ".././images/landmark_places/ahmet_zhubanov/МемориальныйПамятникИмениАхметаЖубанова0.jpg",
+          "virualMapLink": "https://www.google.com/maps/embed?pb=!4v1680965610331!6m8!1m7!1sCAoSLEFGMVFpcE9NQWRFMW9qQmdmQWpSSzRJUk1ScHNod1laM1JmcWNORmFBOUp3!2m2!1d50.3131547!2d57.14732350000001!3f223.69238907278364!4f4.966523802427687!5f0.9828022340389906",
+          "imgCollection": [
+            {
+              "original": ".././images/landmark_places/ahmet_zhubanov/МемориальныйПамятникИмениАхметаЖубанова1.jpg",
+              "thumbnail": ".././images/landmark_places/ahmet_zhubanov/МемориальныйПамятникИмениАхметаЖубанова1.jpg"
+            },
+            {
+              "original": ".././images/landmark_places/ahmet_zhubanov/МемориальныйПамятникИмениАхметаЖубанова2.jpg",
+              "thumbnail": ".././images/landmark_places/ahmet_zhubanov/МемориальныйПамятникИмениАхметаЖубанова2.jpg"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "natureTitle": "Центральная мечеть города Актобе",
+          "natureLocation": "ул. Ш.Берсиева, 22;",
+          "natureCoordination": "50.281671, 57.236458  ",
+          "natureMap": "https://www.google.com/maps/place/%D0%A6%D0%B5%D0%BD%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F+%D0%BC%D0%B5%D1%87%D0%B5%D1%82%D1%8C+%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B0+%D0%90%D0%BA%D1%82%D0%BE%D0%B1%D0%B5/@50.2818504,57.235832,207m/data=!3m1!1e3!4m5!3m4!1s0x4182213a38778529:0x749accb084a1781b!8m2!3d50.2817503!4d57.2362929",
+          "natureText": "Центральная мечеть города Актобе\n\n      Строительство первой мечети города, на месте которой затем была возведена Центральная мечеть, началось в 1901 году и было закончено через 2 года. В комплекс мечети, помимо основного здания, входили медресе, гостиница, стоянка для лошадей и дома священнослужителей. Эти сооружения были разобраны во время Великой Отечественной войны для нужд строительства. Мечеть была вновь построена в 1990 году, а в 2014 году рядом со старым помещением мечети было возведено новое просторное здание.",
+          "imgBanner": ".././images/landmark_places/centre_mechet/ЦентральнаяМечеть0.jpg",
+          "imgBannerBg": ".././images/landmark_places/centre_mechet/ЦентральнаяМечеть1.jpg",
+          "virualMapLink": "",
+          "imgCollection": [
+            {
+              "original": ".././images/landmark_places/centre_mechet/ЦентральнаяМечеть0.jpg",
+              "thumbnail": ".././images/landmark_places/centre_mechet/ЦентральнаяМечеть0.jpg"
+            },
+            {
+              "original": ".././images/landmark_places/centre_mechet/ЦентральнаяМечеть1.jpg",
+              "thumbnail": ".././images/landmark_places/centre_mechet/ЦентральнаяМечеть1.jpg"
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "natureTitle": "Актюбинская областная филармония им. Г. Жубановой, концертный зал «Өнер орталығы»",
+          "natureLocation": "пр-т. Абилкайыр хана, 90 Б;",
+          "natureCoordination": "50.284408, 57.183481",
+          "natureMap": "https://www.google.com/maps/place/%D0%90%D0%BA%D1%82%D1%8E%D0%B1%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F+%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D0%BD%D0%B0%D1%8F+%D1%84%D0%B8%D0%BB%D0%B0%D1%80%D0%BC%D0%BE%D0%BD%D0%B8%D1%8F+%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8+%D0%93%D0%B0%D0%B7%D0%B8%D0%B7%D1%8B+%D0%96%D1%83%D0%B1%D0%B0%D0%BD%D0%BE%D0%B2%D0%BE%D0%B9,+%D0%9A%D0%97+%22%D3%A8%D0%BD%D0%B5%D1%80+%D0%BE%D1%80%D1%82%D0%B0%D0%BB%D1%8B%D2%93%D1%8B%22/@50.2842592,57.1810987,675m/data=!3m2!1e3!4b1!4m5!3m4!1s0x41822162ee67a2db:0x882ec34f79efe89!8m2!3d50.2842592!4d57.1832927",
+          "natureText": "Актюбинская областная филармония им. Г. Жубановой была основана одной из самых первых в Казахстане, еще в сентябре 1944 года. В 1998 г. учреждению присвоили имя талантливого музыканта, композитора и общественного деятеля Казахстана – Газизы Жубановой.\n\n      В 2017 году при филармонии был построен и открыт крупнейший во всем западном регионе Казахстана центр искусств – «Өнер орталығы». Центр имеет колоссальную площадь – около 13 000 квадратных метров, а также в нем находится уникальный концертный зал, который вмещает 1200 зрителей, сцена которого оснащена современным звуковым и светотехническим оборудованием. На сегодняшний день, концертный зал «Өнер орталығы», является одним из наиболее посещаемых залов в Казахстане, где количество зрителей превышает количество мест в зале.",
+          "imgBanner": ".././images/landmark_places/oner_ortalygy/ОнерОрталыгы0.jpg",
+          "imgBannerBg": ".././images/landmark_places/oner_ortalygy/ОнерОрталыгы1.jpg",
+          "virualMapLink": "https://www.google.com/maps/embed?pb=!4v1680968640247!6m8!1m7!1sCAoSLEFGMVFpcFA1b0E0bDhLbnB5Q1M4LUdKdGRGNFV4UXNnUVh4dE83ZDNSb09G!2m2!1d50.2847476!2d57.1830213!3f97.78072120486135!4f12.691993185319959!5f0.7820865974627469",
+          "imgCollection": [
+            {
+              "original": ".././images/landmark_places/oner_ortalygy/ОнерОрталыгы1.jpg",
+              "thumbnail": ".././images/landmark_places/oner_ortalygy/ОнерОрталыгы1.jpg"
+            },
+            {
+              "original": ".././images/landmark_places/oner_ortalygy/ОнерОрталыгы2.jpg",
+              "thumbnail": ".././images/landmark_places/oner_ortalygy/ОнерОрталыгы2.jpg"
+            },
+            {
+              "original": ".././images/landmark_places/oner_ortalygy/ОнерОрталыгы3.jpg",
+              "thumbnail": ".././images/landmark_places/oner_ortalygy/ОнерОрталыгы3.jpg"
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "natureTitle": "Актюбинский областной историко-краеведческий музей",
+          "natureLocation": "ул. Ораза Татеулы, 3;",
+          "natureCoordination": "50.276935, 57.139599",
+          "natureMap": "https://www.google.com/maps/place/%D0%90%D0%BA%D1%82%D1%8E%D0%B1%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9+%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D0%BD%D0%BE%D0%B9+%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%BA%D0%BE-%D0%BA%D1%80%D0%B0%D0%B5%D0%B2%D0%B5%D0%B4%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9+%D0%BC%D1%83%D0%B7%D0%B5%D0%B9/@50.276794,57.1400949,338m/data=!3m1!1e3!4m5!3m4!1s0x418223b6bf2b3e03:0x4f665af24c538499!8m2!3d50.2767863!4d57.1399506",
+          "natureText": "Актюбинский областной историко-краеведческий музей своим появлением обязан передвижной выставке, посвященной истории края, организованной в 1929 году по инициативе местных краеведов. Благодаря усилиям неравнодушных людей первые годы функционировал как небольшой школьный музей, позднее преобразовывался в «Местный краеведческий музей», «Окружной краеведческий музей». Сегодня Актюбинский областной историко-краеведческий музей - один из крупных научно-исследовательских, просветительских и культурно-досуговых учреждений Актюбинской области.\n\n      14 ноября 2018 года состоялось официальное открытие нового здания музея, общая площадь которого составляет 4360,4 кв. м. В новом музее функционирует десять залов, меются мастерские, научная библиотека, комнаты хранения экспонатов фонда, творческие комнаты и т.д. В выставочных залах запущены масштабные светодиодные экраны, интерактивная виртуальная книга, мультимедийное оборудование, виртуальный голографический комплекс, информационные киоски и другие технологические новинки.",
+          "imgBanner": ".././images/landmark_places/istorichesky_kraevedichesky_muszey/АктюбинскийОбластнойИсторико_краеведческийМузей0.jpeg",
+          "imgBannerBg": ".././images/landmark_places/istorichesky_kraevedichesky_muszey/АктюбинскийОбластнойИсторико_краеведческийМузей0.jpeg",
+          "virualMapLink": "https://aqtobe-museum.kz/tour/independent-road/index.html",
+          "imgCollection": [
+            {
+              "original": ".././images/landmark_places/istorichesky_kraevedichesky_muszey/АктюбинскийОбластнойИсторико_краеведческийМузей1.jpg",
+              "thumbnail": ".././images/landmark_places/istorichesky_kraevedichesky_muszey/АктюбинскийОбластнойИсторико_краеведческийМузей1.jpg"
+            },
+            {
+              "original": ".././images/landmark_places/istorichesky_kraevedichesky_muszey/АктюбинскийОбластнойИсторико_краеведческийМузей2.jpg",
+              "thumbnail": ".././images/landmark_places/istorichesky_kraevedichesky_muszey/АктюбинскийОбластнойИсторико_краеведческийМузей2.jpg"
+            },
+            {
+              "original": ".././images/landmark_places/istorichesky_kraevedichesky_muszey/АктюбинскийОбластнойИсторико_краеведческийМузей3.jpg",
+              "thumbnail": ".././images/landmark_places/istorichesky_kraevedichesky_muszey/АктюбинскийОбластнойИсторико_краеведческийМузей3.jpg"
+            },
+            {
+              "original": ".././images/landmark_places/istorichesky_kraevedichesky_muszey/АктюбинскийОбластнойИсторико_краеведческийМузей4.jpg",
+              "thumbnail": ".././images/landmark_places/istorichesky_kraevedichesky_muszey/АктюбинскийОбластнойИсторико_краеведческийМузей4.jpg"
+            },
+            {
+              "original": ".././images/landmark_places/istorichesky_kraevedichesky_muszey/АктюбинскийОбластнойИсторико_краеведческийМузей5.jpg",
+              "thumbnail": ".././images/landmark_places/istorichesky_kraevedichesky_muszey/АктюбинскийОбластнойИсторико_краеведческийМузей5.jpg"
+            },
+            {
+              "original": ".././images/landmark_places/istorichesky_kraevedichesky_muszey/АктюбинскийОбластнойИсторико_краеведческийМузей6.jpg",
+              "thumbnail": ".././images/landmark_places/istorichesky_kraevedichesky_muszey/АктюбинскийОбластнойИсторико_краеведческийМузей6.jpg"
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "natureTitle": "Бульвар Абая",
+          "natureLocation": "Казахстан, Актюбинская область, Актобе, пр. Абая",
+          "natureCoordination": "N 50° 18 7.146\" E 57° 9 34.9056",
+          "natureMap": "https://www.google.com/maps/place/%D0%90%D0%BA%D1%82%D1%8E%D0%B1%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9+%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D0%BD%D0%BE%D0%B9+%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%BA%D0%BE-%D0%BA%D1%80%D0%B0%D0%B5%D0%B2%D0%B5%D0%B4%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9+%D0%BC%D1%83%D0%B7%D0%B5%D0%B9/@50.276794,57.1400949,338m/data=!3m1!1e3!4m5!3m4!1s0x418223b6bf2b3e03:0x4f665af24c538499!8m2!3d50.2767863!4d57.1399506",
+          "natureText": "Бульвар Абая является пешеходной зоной отдыха в центре Актобе. Ранее он назывался Октябрьским бульваром и был центром всех городских событий. С появлением в Актобе благоустроенного парка Первого Президента и Водно-зеленого бульвара, бульвар Абая утратил свои лидирующие позиции, однако, до сих пор привлекает отдыхающих красочными клумбами и ухоженным видом.",
+          "imgBanner": ".././images/landmark_places/bulvar_abai/БульварАбая0.jpg",
+          "imgBannerBg": ".././images/landmark_places/bulvar_abai/БульварАбая1.jpg",
+          "virualMapLink": "https://www.google.com/maps/embed?pb=!4v1680970052157!6m8!1m7!1sCAoSLEFGMVFpcE5mV29iRWdib2xJVWp2bVFQdGd1MUdlNU85cWVWRzNzQkRJQlBY!2m2!1d50.3018463!2d57.1594419!3f76.57784750657991!4f6.598874175622711!5f0.7820865974627469",
+          "imgCollection": [
+            {
+              "original": ".././images/landmark_places/bulvar_abai/БульварАбая1.jpg",
+              "thumbnail": ".././images/landmark_places/bulvar_abai/БульварАбая1.jpg"
+            },
+            {
+              "original": ".././images/landmark_places/bulvar_abai/БульварАбая2.jpg",
+              "thumbnail": ".././images/landmark_places/bulvar_abai/БульварАбая2.jpg"
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "natureTitle": "Триатлон парк",
+          "natureLocation": "Актобе, Триатлон парк",
+          "natureCoordination": "",
+          "natureMap": "https://yandex.kz/maps/20273/aktobe/geo/1699863377/",
+          "natureText": "Парк представляет собой вело — беговую дорожку протяжённостью 2,4 км по периметру парка и административное здание, в котором размещены 3 спортивных зала, где будут базироваться секции триатлона, велоспорта и лёгкой атлетики. Также в здании размещены спорт бар и сервис по ремонту велосипедов, а также организован прокат (велосипед, лыжи, коньки). Триатлон парк станет новым местом притяжения активных жителей города и области для занятия спортом и физической активностью. Бег, велоспорт, лыжи, коньки, лыже-роллеры, роллеры, скандинавская ходьба, воркаут станут доступными в новом Триатлон парке. Парк будет находиться в свободном доступе для жителей и гостей города.",
+          "imgBanner": ".././images/landmark_places/triatlon_park/ТриатлонПарк0.jpg",
+          "imgBannerBg": ".././images/landmark_places/triatlon_park/ТриатлонПарк1.jpg",
+          "virualMapLink": "https://www.google.com/maps/embed?pb=!4v1680970605037!6m8!1m7!1sCAoSLEFGMVFpcE5oRFdiZUdtVU83SXZFX3RLV3lWMlZnd0NUS25mdHlfUGFDT3J2!2m2!1d50.2793503!2d57.1904449!3f323.0066964926277!4f6.852049501647542!5f0.7820865974627469",
+          "imgCollection": [
+            {
+              "original": ".././images/landmark_places/triatlon_park/ТриатлонПарк1.jpg",
+              "thumbnail": ".././images/landmark_places/triatlon_park/ТриатлонПарк1.jpg"
+            },
+            {
+              "original": ".././images/landmark_places/triatlon_park/ТриатлонПарк2.jpg",
+              "thumbnail": ".././images/landmark_places/triatlon_park/ТриатлонПарк2.jpg"
+            },
+            {
+              "original": ".././images/landmark_places/triatlon_park/ТриатлонПарк3.jpg",
+              "thumbnail": ".././images/landmark_places/triatlon_park/ТриатлонПарк3.jpg"
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "natureTitle": "Актюбинский областной мемориальный музей А. Молдагуловой",
+          "natureLocation": "Казахстан, Актюбинская область, Актобе, пр. А.Молдагуловой, д.47",
+          "natureCoordination": "N 50° 17 18.3012\" E 57° 9 27.2412",
+          "natureMap": "https://www.google.kz/maps/place/Музей+имени+Алии+Молдагуловой/@50.28914,57.1584561,18z/data=!4m6!3m5!1s0x418223d3249b8657:0xfb67bbc8f5c74dfb!8m2!3d50.2889721!4d57.159639!16s%2Fg%2F11d_8p88mq",
+          "natureText": "Бульвар Абая является пешеходной зоной отдыха в центре Актобе. Ранее он назывался Октябрьским бульваром и был центром всех городских событий. С появлением в Актобе благоустроенного парка Первого Президента и Водно-зеленого бульвара, бульвар Абая утратил свои лидирующие позиции, однако, до сих пор привлекает отдыхающих красочными клумбами и ухоженным видом.",
+          "imgBanner": ".././images/landmark_places/muzei_alya_muldagulova/МузейАлияМолдагуловой0.jpg",
+          "imgBannerBg": ".././images/landmark_places/muzei_alya_muldagulova/МузейАлияМолдагуловой1.jpg",
+          "virualMapLink": "",
+          "imgCollection": [
+            {
+              "original": ".././images/landmark_places/muzei_alya_muldagulova/МузейАлияМолдагуловой1.jpg",
+              "thumbnail": ".././images/landmark_places/muzei_alya_muldagulova/МузейАлияМолдагуловой1.jpg"
+            },
+            {
+              "original": ".././images/landmark_places/muzei_alya_muldagulova/МузейАлияМолдагуловой2.jpg",
+              "thumbnail": ".././images/landmark_places/muzei_alya_muldagulova/МузейАлияМолдагуловой2.jpg"
+            },
+            {
+              "original": ".././images/landmark_places/muzei_alya_muldagulova/МузейАлияМолдагуловой3.jpg",
+              "thumbnail": ".././images/landmark_places/muzei_alya_muldagulova/МузейАлияМолдагуловой3.jpg"
+            },
+            {
+              "original": ".././images/landmark_places/muzei_alya_muldagulova/МузейАлияМолдагуловой4.jpg",
+              "thumbnail": ".././images/landmark_places/muzei_alya_muldagulova/МузейАлияМолдагуловой4.jpg"
+            },
+            {
+              "original": ".././images/landmark_places/muzei_alya_muldagulova/МузейАлияМолдагуловой5.jpg",
+              "thumbnail": ".././images/landmark_places/muzei_alya_muldagulova/МузейАлияМолдагуловой5.jpg"
+            }
+          ]
+        }
+      ],
+      "nightlifeInfo":[
+        {
+          "id": 1,
+          "headerTitle": "New York Club",
+          "headerSubTitle": "Located in Nova Gradiska",
+          "headerText": " Its a great place to have fun, go out at night and have a good drink. drinks are relatively cheap, but there are also expensive things.",
+          "title": "New York Club",
+          "description": "New York is located in a Nova Gradiska, at 8 Zirinski Street. Its a great place to have fun, go out at night and have a good drink. drinks are relatively cheap, but there are also expensive things. They offer a variety of drinks, from the most expensive whiskey to the finest beer.",
+          "img": ".././images/newyork.jpeg",
+          "maps": "https://www.google.com/maps/d/embed?mid=10aIjTbT7Y0Ip9gBU7Nk8hvYMmhCy8JYI",
+          "maxCapacity": "300 people",
+          "price": "20HRK(3€)",
+          "phone": "098 247 401",
+          "address": "Zrinskih 8",
+          "email": "marijan@newyork.hr",
+          "images": [
+            ".././images/nightlife/1.jpeg",
+            ".././images/nightlife/2.jpeg",
+            ".././images/nightlife/3.jpeg"
+          ],
+          "openFrom": "7h-5h"
+        },
+        {
+          "id": 2,
+          "headerTitle": "The Corner Pub",
+          "headerSubTitle": "Located in Nova Gradiska",
+          "headerText": "Our first ever GAA match in Croatia and of course traditional Irish celebrations like St. Patricks day. So please follow us on facebook for all the latest information.",
+          "title": "The Corner Pub",
+          "description": "We pride ourselves on being the only genuine Irish pub in Croatia where you can watch all the Irish GAA matches live,  enjoy traditional Irish music and can also find some Irish newspapers if you want to catch up on whats happening in Ireland over a pint of OHaras.Corner Pub is also a focal point for the Irish community in Croatia with many events such as our recent Irish musical pub tour of NG, our first ever GAA match in Croatia and of course traditional Irish celebrations like St. Patricks day. So please follow us on facebook for all the latest information.",
+          "img": ".././images/corner.jpeg",
+          "maps": "https://www.google.com/maps/d/embed?mid=1Pb23TpVAKRdgjM7URAoFPOp1pzvGjMK_",
+          "maxCapacity": "80 people",
+          "price": "20HRK(3€)",
+          "phone": "035 364 336",
+          "address": "Maksimilijana Benkovića 2",
+          "email": "m.me/thecornerpubcroatia",
+          "images": [
+            ".././images/nightlife/4.jpeg",
+            ".././images/nightlife/5.jpeg",
+            ".././images/nightlife/6.jpeg"
+          ],
+          "openFrom": "7h-2h"
+        },
+        {
+          "id": 3,
+          "headerTitle": "Kavana EXIT",
+          "headerSubTitle": "Located in Nova Gradiska",
+          "headerText": "A great place for morning coffee and a great time on weekends and holidays! No.1 place in Nova Gradiska!",
+          "title": "Kavana EXIT",
+          "description": "Do you want to have coffee with your friends in a superb atmosphere in a superb setting, without worrying about your kids being safe, or to spend the weekends partying, choose the new EXIT, a place in two locations, in Haulik Street 4th and 18th Slavosk border guards, also offers the opportunity for double enjoyment. These are catering establishments that win \"on the first\", spaces that have been the favorite gathering place of Novogradischans in the day and evening variants for the last 15 years.",
+          "img": ".././images/kavana.jpeg",
+          "maps": "https://www.google.com/maps/d/embed?mid=1uFflsRlzPfp7Ld0aqCu2Y7U-CTi6Ei5O",
+          "maxCapacity": "100 people",
+          "price": "20HRK(3€)",
+          "phone": "035 361 666",
+          "address": "Slavonskih graničara 16",
+          "email": "-",
+          "images": [
+            ".././images/nightlife/7.jpeg",
+            ".././images/nightlife/8.jpeg",
+            ".././images/nightlife/9.jpeg"
+          ],
+          "openFrom": "7h-24h"
+        }
+      ]
+    
+}
