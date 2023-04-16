@@ -1,1 +1,0 @@
-# react-aktobe-gid

@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "46c6a7358d36b9d93c94",
+    "revision": "39ad4ef4c7167a8a8abb",
     "url": "/react-aktobe-gid/static/css/main.285c6208.chunk.css"
   },
   {
-    "revision": "46c6a7358d36b9d93c94",
-    "url": "/react-aktobe-gid/static/js/main.46c6a735.chunk.js"
+    "revision": "39ad4ef4c7167a8a8abb",
+    "url": "/react-aktobe-gid/static/js/main.39ad4ef4.chunk.js"
   },
   {
     "revision": "52996ab4f7a4962cdfdc",
@@ -64,7 +64,7 @@ self.__precacheManifest = [
     "url": "/react-aktobe-gid/static/media/paralax.a2c5c24d.jpg"
   },
   {
-    "revision": "cdf6b75fbfaf3c33fd581b17f43bb2d1",
+    "revision": "fd6b361d164d261ea692ea08d1f148fb",
     "url": "/react-aktobe-gid/index.html"
   }
 ];
