@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "4f6b9dd877011d620239",
-    "url": "/react-aktobe-gid/static/css/main.ecb6047a.chunk.css"
+    "revision": "7df0a38d217bd953c9ff",
+    "url": "/react-aktobe-gid/static/css/main.dff083ff.chunk.css"
   },
   {
-    "revision": "4f6b9dd877011d620239",
-    "url": "/react-aktobe-gid/static/js/main.4f6b9dd8.chunk.js"
+    "revision": "7df0a38d217bd953c9ff",
+    "url": "/react-aktobe-gid/static/js/main.7df0a38d.chunk.js"
   },
   {
-    "revision": "99f4498c13f4c578ee48",
-    "url": "/react-aktobe-gid/static/css/1.a42972e1.chunk.css"
+    "revision": "aed29280cd3d845b9082",
+    "url": "/react-aktobe-gid/static/css/1.c73a64b5.chunk.css"
   },
   {
-    "revision": "99f4498c13f4c578ee48",
-    "url": "/react-aktobe-gid/static/js/1.99f4498c.chunk.js"
+    "revision": "aed29280cd3d845b9082",
+    "url": "/react-aktobe-gid/static/js/1.aed29280.chunk.js"
   },
   {
     "revision": "bfb0a4a901225b2f5888",
@@ -48,12 +48,12 @@ self.__precacheManifest = [
     "url": "/react-aktobe-gid/static/media/jeep.c4c1c5c9.mp4"
   },
   {
-    "revision": "e9b6a6ca5ef7c83762a6a782b360aec8",
-    "url": "/react-aktobe-gid/static/media/sokralnie_mesta.e9b6a6ca.jpg"
-  },
-  {
     "revision": "38c5c87fd3b3b89ad1255fbb6c43d46b",
     "url": "/react-aktobe-gid/static/media/dostoprimechatelnosti.38c5c87f.jpg"
+  },
+  {
+    "revision": "e9b6a6ca5ef7c83762a6a782b360aec8",
+    "url": "/react-aktobe-gid/static/media/sokralnie_mesta.e9b6a6ca.jpg"
   },
   {
     "revision": "68487ff9a12b49901ed4d48ceaa6b86c",
@@ -64,7 +64,7 @@ self.__precacheManifest = [
     "url": "/react-aktobe-gid/static/media/paralax.a2c5c24d.jpg"
   },
   {
-    "revision": "a8f11d3c80d287af684fa1fe9d50dbf7",
+    "revision": "b2ea344ea2175ecec2d83cd42bb4b3b0",
     "url": "/react-aktobe-gid/index.html"
   }
 ];
