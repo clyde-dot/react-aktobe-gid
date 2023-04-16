@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "39ad4ef4c7167a8a8abb",
-    "url": "/react-aktobe-gid/static/css/main.285c6208.chunk.css"
+    "revision": "4f6b9dd877011d620239",
+    "url": "/react-aktobe-gid/static/css/main.ecb6047a.chunk.css"
   },
   {
-    "revision": "39ad4ef4c7167a8a8abb",
-    "url": "/react-aktobe-gid/static/js/main.39ad4ef4.chunk.js"
+    "revision": "4f6b9dd877011d620239",
+    "url": "/react-aktobe-gid/static/js/main.4f6b9dd8.chunk.js"
   },
   {
-    "revision": "52996ab4f7a4962cdfdc",
-    "url": "/react-aktobe-gid/static/css/1.1c5220ea.chunk.css"
+    "revision": "99f4498c13f4c578ee48",
+    "url": "/react-aktobe-gid/static/css/1.a42972e1.chunk.css"
   },
   {
-    "revision": "52996ab4f7a4962cdfdc",
-    "url": "/react-aktobe-gid/static/js/1.52996ab4.chunk.js"
+    "revision": "99f4498c13f4c578ee48",
+    "url": "/react-aktobe-gid/static/js/1.99f4498c.chunk.js"
   },
   {
     "revision": "bfb0a4a901225b2f5888",
@@ -64,7 +64,7 @@ self.__precacheManifest = [
     "url": "/react-aktobe-gid/static/media/paralax.a2c5c24d.jpg"
   },
   {
-    "revision": "fd6b361d164d261ea692ea08d1f148fb",
+    "revision": "a8f11d3c80d287af684fa1fe9d50dbf7",
     "url": "/react-aktobe-gid/index.html"
   }
 ];
