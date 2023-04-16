@@ -15,6 +15,7 @@
       "home_video_description":"Организуй свое путешествие с комфортом",
       "home_wellcome_title":"Добро Пожаловать в Актобе",
       "home_wellcome_description":"Актобе расположен на западе Казахстана, в европейской части страны, на севере Актюбинской области. Площадь города составляет 2,3 тыс. км². В черте города протекают река Илек и несколько её притоков, вблизи находятся Актюбинское и Саздинское водохранилища. Вследствие расположенности во внутренней части Евразии и значительной отдалённости от океанов, климат города является резко континентальным.",
+      "home_travel_guide_title":"Путеводитель",
 
 
 
@@ -157,66 +158,7 @@
             "breakfast": "Бесплатный завтрак"
           }
         ],
-      "reviews":[
-          {
-            "id": 1,
-            "name": "Аслан",
-            "avatar": ".././avatars/avatar-1.png",
-            "comment": "Perfect. From the kind Mr. Dalibor who contacted me immediately after booking to explain everything I needed. Great welcome, great positive energy. There is no need to talk about the modernity and neatness of the room."
-          },
-          {
-            "id": 2,
-            "name": "Асылай",
-            "avatar": ".././avatars/avatar-3.png",
-            "comment": "Fantastic place !!! Welcome with kindness and availability. The rooms are perfect, spotlessly clean and comfortably warm with the cold outside. Theres nothing missing, a fridge, a kettle, a television, a bathroom with a comfortable shower, a hair dryer .... too much to leave for just one night. Ah Parking is within the structure, it is spacious and convenient. Hope to be back as soon as possible !!!!!"
-          },
-          {
-            "id": 3,
-            "name": "Иван",
-            "avatar": ".././avatars/avatar-2.png",
-            "comment": "Really very nice hotel. Five minutes from the freeway. Very modern furniture and furniture. Thats all you need. Bed with a quality mattress. He stayed twice. The second time I didnt even think about where to stay. For the money, a very, very decent hotel. Good and convenient parking. I RECOMMEND !!!!"
-          },
-          {
-            "id": 4,
-            "name": "Жомарт",
-            "avatar": ".././avatars/avatar-4.png",
-            "comment": "Great accommodation, really nice hotel, comfortable room temperature and perfect floor heating. Great meals. Good cooks. Only the door on the shower is too small! Staff very friendly and helpful! All praise for the beautiful antique furniture! It all exudes some ancient times"
-          },
-          {
-            "id": 5,
-            "name": "Жаркынай",
-            "avatar": ".././avatars/avatar-5.png",
-            "comment": "Beautiful, comfortable and modernly furnished apartments - the perfect location to explore the charming corners of Slavonia. I highly recommend this place!"
-          }
-        ],
-        "detailInfoHotels":{
-          "id": 1,
-          "headerTitle": "Hotel Kralj Tomislav",
-          "headerSubTitle": "Located in Nova Gradiska",
-          "headerText": "Hotel Kralj Tomislav is an exclusive catering facility in the area of ​​Brodsko-Posavska Zupanija, which by its appearance, offer and services meets the high standards of catering and tourism",
-          "title": "Hotel Kralj Tomislav",
-          "description": " Hotel Kralj Tomislav is an exclusive catering facility in the area of ​​Brodsko-Posavska Zupanija, which by its appearance, offer and services meets the high standards of catering and tourism of today. Located in the center of Nova Gradiška, 120 km away from Zagreb to the east, it is an ideal place for anyone who wants to feel the specificity of the area in which it is located. Categorized by the Ministry of Tourism with three (***) stars justifiably makes the very top of the offer of this beautiful area of ​​ours. Its name symbolizes prestige and elegance, and its clients have spread their enthusiasm in their region.",
-          "img": ".././images/kraljtomislav.jpg",
-          "maps": "Trg kralja Tomislava 3, 35400, Nova Gradiška",
-          "extras": [
-            "Free parking",
-            "Free wifi",
-            "Mini bar",
-            "Room service",
-            "Free breakfast",
-            "Comfortable beds"
-          ],
-          "maxCapacity": "10 people",
-          "price": "520HRK(80€)",
-          "phone": "035 362 722",
-          "address": "Trg kralja Tomislava 3",
-          "email": "hotel@hotel-kralj-tomislav.hr",
-          "images": [
-            ".././images/hotels/1.jpeg",
-            ".././images/hotels/2.jpeg",
-            ".././images/hotels/3.jpeg"
-          ]
-        },
+
       "nature":[
           {
             "id": 1,
