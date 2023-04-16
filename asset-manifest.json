@@ -1,7 +1,7 @@
 {
   "main.css": "/react-aktobe-gid/static/css/main.dff083ff.chunk.css",
-  "main.js": "/react-aktobe-gid/static/js/main.7df0a38d.chunk.js",
-  "main.js.map": "/react-aktobe-gid/static/js/main.7df0a38d.chunk.js.map",
+  "main.js": "/react-aktobe-gid/static/js/main.da5bad25.chunk.js",
+  "main.js.map": "/react-aktobe-gid/static/js/main.da5bad25.chunk.js.map",
   "static/css/1.c73a64b5.chunk.css": "/react-aktobe-gid/static/css/1.c73a64b5.chunk.css",
   "static/js/1.aed29280.chunk.js": "/react-aktobe-gid/static/js/1.aed29280.chunk.js",
   "static/js/1.aed29280.chunk.js.map": "/react-aktobe-gid/static/js/1.aed29280.chunk.js.map",
@@ -18,6 +18,6 @@
   "static/css/main.dff083ff.chunk.css.map": "/react-aktobe-gid/static/css/main.dff083ff.chunk.css.map",
   "static/css/1.c73a64b5.chunk.css.map": "/react-aktobe-gid/static/css/1.c73a64b5.chunk.css.map",
   "index.html": "/react-aktobe-gid/index.html",
-  "precache-manifest.776a9f8288c3fc7f2d3f04fde4e3db58.js": "/react-aktobe-gid/precache-manifest.776a9f8288c3fc7f2d3f04fde4e3db58.js",
+  "precache-manifest.d3693b12e74cd5d9e9169c2f6a3bc42e.js": "/react-aktobe-gid/precache-manifest.d3693b12e74cd5d9e9169c2f6a3bc42e.js",
   "service-worker.js": "/react-aktobe-gid/service-worker.js"
 }

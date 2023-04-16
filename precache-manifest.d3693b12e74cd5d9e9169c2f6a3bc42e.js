@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "7df0a38d217bd953c9ff",
+    "revision": "da5bad2538cba3ebe463",
     "url": "/react-aktobe-gid/static/css/main.dff083ff.chunk.css"
   },
   {
-    "revision": "7df0a38d217bd953c9ff",
-    "url": "/react-aktobe-gid/static/js/main.7df0a38d.chunk.js"
+    "revision": "da5bad2538cba3ebe463",
+    "url": "/react-aktobe-gid/static/js/main.da5bad25.chunk.js"
   },
   {
     "revision": "aed29280cd3d845b9082",
@@ -48,12 +48,12 @@ self.__precacheManifest = [
     "url": "/react-aktobe-gid/static/media/jeep.c4c1c5c9.mp4"
   },
   {
-    "revision": "38c5c87fd3b3b89ad1255fbb6c43d46b",
-    "url": "/react-aktobe-gid/static/media/dostoprimechatelnosti.38c5c87f.jpg"
-  },
-  {
     "revision": "e9b6a6ca5ef7c83762a6a782b360aec8",
     "url": "/react-aktobe-gid/static/media/sokralnie_mesta.e9b6a6ca.jpg"
+  },
+  {
+    "revision": "38c5c87fd3b3b89ad1255fbb6c43d46b",
+    "url": "/react-aktobe-gid/static/media/dostoprimechatelnosti.38c5c87f.jpg"
   },
   {
     "revision": "68487ff9a12b49901ed4d48ceaa6b86c",
@@ -64,7 +64,7 @@ self.__precacheManifest = [
     "url": "/react-aktobe-gid/static/media/paralax.a2c5c24d.jpg"
   },
   {
-    "revision": "b2ea344ea2175ecec2d83cd42bb4b3b0",
+    "revision": "dab91b2de0c01cf7546af55451e6b6f8",
     "url": "/react-aktobe-gid/index.html"
   }
 ];
