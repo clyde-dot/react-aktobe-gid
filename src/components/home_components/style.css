@@ -1,0 +1,156 @@
+/*main*/
+
+.spliter{
+  width: 90%;
+  height: 2px;
+  background: #F0F8FF;
+  margin-top: 100px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/*end of main*/
+
+/*video*/
+header {
+    position: relative;
+    background-color: black;
+    height: 904px;
+    min-height: 25rem;
+    width: 100%;
+    overflow: hidden;
+  }
+  
+  header video {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    z-index: 0;
+    -ms-transform: translateX(-50%) translateY(-50%);
+    -moz-transform: translateX(-50%) translateY(-50%);
+    -webkit-transform: translateX(-50%) translateY(-50%);
+    transform: translateX(-50%) translateY(-50%);
+  }
+  
+  header .container {
+    position: relative;
+    z-index: 2;
+  }
+  
+  header .overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-color: black;
+    opacity: 0.5;
+    z-index: 1;
+  }
+  
+  @media (pointer: coarse) and (hover: none) {
+    header {
+      background: linear-gradient(to right, #2c5364,#203a43,#0f2027 );
+    }
+    header video {
+      display: none;
+    }
+  }
+  /*end of video*/
+  /*slide*/
+  .inner h1{
+    font-size: 3.5rem;
+    animation: Slide_Up 1.5s ease;
+  }
+  .inner p{
+    font-size: 1.2rem;
+    animation: Slide_Up 2.1s ease;
+  }
+  .inner button{
+    margin-top: 2rem;
+    padding: 1rem;
+    font-size: 1rem;
+    border-radius: 4rem;
+    border: none;
+    background: #6d6d6d;
+    width: 200px;
+    color: whitesmoke;
+    animation: Slide_Up 2.4s ease;
+  }
+  
+  @keyframes Slide_Up{
+    0%{
+      transform: translateY(250px);
+    }
+    100%{
+      transform: translateY(0);
+    }
+  }
+/*end of slide*/  
+/*text*/
+.aboutng{
+  text-align: center;
+}
+.aboutng h1{
+  font-size: 40px;
+  padding-top:100px;
+  color:var(--dark);
+}
+.aboutng div{
+    width: 5rem;
+    height: 5px;
+    background: red;
+    margin: 1.7rem auto;
+    margin-top: 40px;
+}
+.aboutng p{
+  font-size: 25px;
+  margin: 1rem;
+  text-align: left;
+  font-family: 'Montserrat', sans-serif;
+}
+/*end of text*/
+/*city view*/
+.video{
+  height: 100%;
+  width: 100%;
+  padding-top: 100px;
+}
+.videoText{
+  padding-top: 20px;
+  margin: 5px;
+}
+.videoText h1{
+  font-size: 2.5rem;
+  padding-bottom: 15px;
+  text-align: center;
+}
+.videoText p{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1rem;
+}
+/*end of city view*/
+/*highlight*/
+.highlights{
+  padding-top: 100px;
+  padding-bottom: 70px;
+}
+.highlights h1{
+  padding-bottom: 30px;
+}
+.car-img{
+  height: 500px;
+}
+@media only screen and (max-width: 450px){
+  .car-img{
+    height: 200px;
+  }
+  .highlights{
+    padding-bottom:30px;
+  }
+}
+/*end of highlight*/

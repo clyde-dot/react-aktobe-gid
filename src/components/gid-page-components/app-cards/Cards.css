@@ -1,0 +1,137 @@
+/* @import url('https://fonts.googleapis.com/css?family=Heebo:400,700|Open+Sans:400,700'); */
+
+:root {
+  --color: #4d4d4d;
+  --transition-time: 0.5s;
+}
+
+
+a {
+  color: inherit;
+}
+
+
+.card-gid {
+  font-family: 'Heebo';
+  --bg-filter-opacity: 0.5;
+  background-image: linear-gradient(rgba(0,0,0,var(--bg-filter-opacity)),rgba(0,0,0,var(--bg-filter-opacity))), var(--bg-img);
+  height: 20em;
+  font-size: 1.5em;
+  color: white;
+  border-radius: 1em;
+  padding: 1em;
+  /*margin: 2em;*/
+  display: flex;
+  align-items: flex-end;
+  background-size: cover;
+  background-position: center;
+  box-shadow: 0 0 15px -3px rgb(0, 0, 0);
+  transition: all, var(--transition-time);
+  position: relative;
+  overflow: hidden;
+  border: 10px solid #ffffff;
+  text-decoration: none;
+}
+
+.card-gid:hover {
+  transform: rotate(0);
+}
+
+.card-gid h1 {
+  margin: 0;
+  font-size: 1.5em;
+  line-height: 1.2em;
+}
+
+.card-gid p {
+  font-size: 0.75em;
+  font-family: 'Open Sans';
+  margin-top: 0.5em;
+  line-height: 2em;
+}
+
+.card-gid .tags {
+  display: flex;
+}
+
+.card-gid .tags .tag {
+  font-size: 0.75em;
+  background: rgba(255,255,255,0.5);
+  border-radius: 0.3rem;
+  padding: 0 0.5em;
+  margin-right: 0.5em;
+  line-height: 1.5em;
+  transition: all, var(--transition-time);
+}
+
+.card-gid:hover .tags .tag {
+  background: var(--color);
+  color: white;
+}
+
+.card-gid .date {
+  position: absolute;
+  top: 0;
+  right: 0;
+  font-size: 30px;
+  padding: 1em;
+  line-height: 1em;
+  opacity: .8;
+}
+
+.card-gid:before, .card-gid:after {
+  content: '';
+  transform: scale(0);
+  transform-origin: top left;
+  border-radius: 50%;
+  position: absolute;
+  left: -50%;
+  top: -50%;
+  z-index: -5;
+  transition: all, var(--transition-time);
+  transition-timing-function: ease-in-out;
+}
+
+.card-gid:before {
+  background: #ddd;
+  width: 250%;
+  height: 250%;
+}
+
+.card-gid:after {
+  background: white;
+  width: 200%;
+  height: 200%;
+}
+
+.card-gid:hover {
+  color: var(--color);
+}
+
+.card-gid:hover:before, .card-gid:hover:after {
+  transform: scale(1);
+}
+
+.card-gid-space .num-card {
+  font-size: 3em;
+  margin-bottom: 1.2rem;
+  margin-left: 1rem;
+}
+
+
+
+@media screen and (max-width: 900px) {
+  .card-gid-space .num-card {
+    margin-left: 0;
+    text-align: center;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .card-gid {
+    max-width: calc(100vw - 4rem);
+  }
+}
+.card-gid-space{
+  margin-bottom: 50px;
+}

@@ -1,0 +1,167 @@
+/*hotels page*/
+.headerSubtitle-map-link{
+  color: rgb(45, 64, 240);
+  padding: 4px 7px;
+  transition: all 0.7s;
+  text-align: center;
+  font-weight: 700;
+  background-color: rgb(255, 255, 255);
+  opacity: .5;
+  border-radius:5px;
+}
+.headerSubtitle-map-link:hover{
+  color: rgb(83, 134, 243);
+  background-color:rgb(255, 255, 255);
+  opacity: 1;
+}
+.hotels{
+    text-align: center;
+    justify-content: center;
+    background-image: url(../components/assets/site-image/hotel1.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 700px;
+  }
+  .hotels h1{
+    font-size: 50px;
+    padding-top: 200px;
+    color: white;
+  }
+  .hotels div{
+      width: 5rem;
+      height: 5px;
+      background: rgb(255, 0, 38);
+      margin: 1.7rem auto;
+      margin-top: 40px;
+  }
+  .hotels p{
+    font-size: 20px;
+    color: white;
+    margin-top: 40px;
+  }
+  /*end hotels page*/
+  
+
+  /*details food*/
+.detail-hotels-image{
+  height: 500px;
+  width: 100%;
+  padding: 10px;
+  margin-top: 50px;
+}
+.hotels-single-images img {
+  width: 350px;
+  height: 200px;
+  margin: 10px;
+ }
+ .title-hotels{
+   text-align: center;
+   font-family: 'Raleway', sans-serif; 
+   padding-top: 50px;
+ }
+ .divred{
+  width: 5rem;
+  height: 5px;
+  background: red;
+  margin: 1.7rem auto;
+  margin-top: 40px;
+}
+.about-place {
+  padding: 5rem 0 0 0;
+  font-family: 'Raleway', sans-serif; 
+}
+.map-rev{
+  font-family: 'Raleway', sans-serif; 
+}
+.about-place-info {
+  display: grid;
+  grid-template-columns: 1fr; 
+}
+.details,
+.info {
+  margin: 1rem 0;
+}
+
+@media screen and (min-width: 992px) {
+  .about-place-info
+   {
+    width: 95vw;
+    max-width: 1170px;
+  }
+  .about-place-info {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-column-gap: 2rem;
+  }
+  .info {
+    padding-left: 3rem;
+  }
+}
+.hotels-details{
+  background-image: url(../components/assets/site-image/hotel1.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 450px;
+}
+.title-hotels-main{
+  text-align: center;
+  font-family: 'Raleway', sans-serif; 
+  padding-top: 100px; 
+}
+.title-hotels-main h1{
+ font-size: 7rem;
+ font-weight: bolder;
+ color: whitesmoke;
+}
+ 
+ @media only screen and (max-width: 500px){
+  .title-hotels-main{
+    text-align: center;
+    font-family: 'Raleway', sans-serif; 
+    padding-top: 120px; 
+  }
+  .title-hotels-main h1{
+   font-size: 2.2rem;
+   font-weight: bolder;
+   color: whitesmoke;
+  }
+   .detail-hotels-image{
+    height: 300px;
+    width: 100%;
+    padding: 10px;
+    margin-top: 50px;
+  }
+  .hotels-details{
+    height: 300px;
+  }
+ }
+ @media only screen and (max-width: 1260px) and (min-width: 500px){
+  .title-hotels-main{
+    text-align: center;
+    font-family: 'Raleway', sans-serif; 
+    padding-top: 120px; 
+  }
+  .title-hotels-main h1{
+   font-size: 3.5rem;
+   font-weight: bolder;
+   color: whitesmoke;
+  }
+  .hotels-details{
+    height: 300px;
+  }
+ }
+ .main-extras {
+  width: 80vw;
+  margin: 0 auto 3rem auto;
+}
+.extras {
+  list-style-type: none;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(330px, 1fr));
+  grid-column-gap: 2rem;
+  grid-row-gap: 1rem;
+}
+
+ /*end of food details*/

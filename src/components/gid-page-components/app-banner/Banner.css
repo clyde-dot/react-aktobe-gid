@@ -1,0 +1,16 @@
+
+
+.gid-h1{
+    position: absolute;
+    top:50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: rgb(255, 255, 255);
+    font-size: 3.5em;
+    font-weight: 600;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    text-shadow: 0px 3px 8px #808080;
+    text-align: center;
+    z-index: 1;
+}

@@ -1,0 +1,135 @@
+/*nightlife*/
+.nightlife{
+    background-image: url(./assets/site-image/banner/banner1.jpg);
+    background-repeat: no-repeat;
+    background-position: center ;
+    background-size: cover;
+    height: 500px;
+    margin-bottom: 35px;
+  }
+  .nightlife-text{
+    text-align: center;
+  }
+  .nightlife-text h1{
+    font-size: 50px;
+    color:var(--dark);
+  }
+  .nightlife-text div{
+      width: 5rem;
+      height: 5px;
+      background: red;
+      margin: 1.7rem auto;
+      margin-top: 40px;
+  }
+  /*end of nightlife*/
+
+  /*details nightlife*/
+.detail-nightlife-image{
+  height: 500px;
+  width: 100%;
+  padding: 10px;
+  margin-top: 50px;
+}
+.nightlife-single-images img {
+  width: 350px;
+  height: 200px;
+  margin: 10px;
+ }
+ .title-nightlife{
+   text-align: center;
+   font-family: 'Raleway', sans-serif; 
+   padding-top: 50px;
+ }
+ .divred{
+  width: 5rem;
+  height: 5px;
+  background: red;
+  margin: 1.7rem auto;
+  margin-top: 40px;
+}
+.about-place {
+  padding: 5rem 0 0 0;
+  font-family: 'Raleway', sans-serif; 
+}
+.map-rev{
+  font-family: 'Raleway', sans-serif; 
+}
+.about-place-info {
+  display: grid;
+  grid-template-columns: 1fr; 
+}
+.details,
+.info {
+  margin: 1rem 0;
+}
+
+@media screen and (min-width: 992px) {
+  .about-place-info
+   {
+    width: 95vw;
+    max-width: 1170px;
+  }
+  .about-place-info {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-column-gap: 2rem;
+  }
+  .info {
+    padding-left: 3rem;
+  }
+}
+.nightlife-details{
+  background-image: url(./assets/site-image/banner/banner0.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 450px;
+}
+.title-nightlife-main{
+  text-align: center;
+  font-family: 'Raleway', sans-serif; 
+  padding-top: 100px; 
+}
+.title-nightlife-main h1{
+ font-size: 7rem;
+ font-weight: bolder;
+ color: whitesmoke;
+}
+ 
+ @media only screen and (max-width: 500px){
+  .title-nightlife-main{
+    text-align: center;
+    font-family: 'Raleway', sans-serif; 
+    padding-top: 100px; 
+  }
+  .title-nightlife-main h1{
+   font-size: 2.2rem;
+   font-weight: bolder;
+   color: whitesmoke;
+  }
+   .detail-nightlife-image{
+    height: 300px;
+    width: 100%;
+    padding: 10px;
+    margin-top: 50px;
+  }
+  .nightlife-details{
+    height: 300px;
+  }
+ }
+ @media only screen and (max-width: 1260px) and (min-width: 500px){
+  .title-nightlife-main{
+    text-align: center;
+    font-family: 'Raleway', sans-serif; 
+    padding-top: 90px; 
+  }
+  .title-nightlife-main h1{
+   font-size: 3.5rem;
+   font-weight: bolder;
+   color: whitesmoke;
+  }
+  .nightlife-details{
+    height: 300px;
+  }
+ }
+ /*end of nightlife details*/

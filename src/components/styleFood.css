@@ -1,0 +1,140 @@
+/*details food*/
+.detail-food-image{
+    height: 500px;
+    width: 100%;
+    padding: 10px;
+    margin-top: 50px;
+  }
+  .food-single-images img {
+    width: 350px;
+    height: 200px;
+    margin: 10px;
+   }
+   .title-food{
+     text-align: center;
+     font-family: 'Raleway', sans-serif; 
+     padding-top: 50px;
+   }
+   .divred{
+    width: 5rem;
+    height: 5px;
+    background: red;
+    margin: 1.7rem auto;
+    margin-top: 40px;
+  }
+  .about-place {
+    padding: 5rem 0 0 0;
+    font-family: 'Raleway', sans-serif; 
+  }
+  .map-rev{
+    font-family: 'Raleway', sans-serif; 
+  }
+  .about-place-info {
+    display: grid;
+    grid-template-columns: 1fr; 
+  }
+  .details,
+  .info {
+    margin: 1rem 0;
+  }
+  
+  @media screen and (min-width: 992px) {
+    .about-place-info
+     {
+      width: 95vw;
+      max-width: 1170px;
+    }
+    .about-place-info {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      grid-column-gap: 2rem;
+    }
+    .info {
+      padding-left: 3rem;
+    }
+  }
+  .food-details{
+    background-image: url(../components/assets/site-image/detailsFood.jpeg);
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: cover;
+    height: 450px;
+  }
+  .title-food-main{
+    text-align: center;
+    font-family: 'Raleway', sans-serif; 
+    padding-top: 230px; 
+  }
+  .title-food-main h1{
+   font-size: 7rem;
+   font-weight: bolder;
+   color: #282828;
+  }
+   
+   @media only screen and (max-width: 500px){
+    .title-food-main{
+      text-align: center;
+      font-family: 'Raleway', sans-serif; 
+      padding-top: 120px; 
+    }
+    .title-food-main h1{
+     font-size: 2.2rem;
+     font-weight: bolder;
+     color: #282828;
+    }
+     .detail-food-image{
+      height: 300px;
+      width: 100%;
+      padding: 10px;
+      margin-top: 50px;
+    }
+    .food-details{
+      height: 300px;
+    }
+   }
+   @media only screen and (max-width: 1260px) and (min-width: 500px){
+    .title-food-main{
+      text-align: center;
+      font-family: 'Raleway', sans-serif; 
+      padding-top: 120px; 
+    }
+    .title-food-main h1{
+     font-size: 3.5rem;
+     font-weight: bolder;
+     color: #282828;
+    }
+    .food-details{
+      height: 300px;
+    }
+   }
+   /*end of food details*/
+
+   /*food*/
+
+   .food{
+    text-align: center;
+    justify-content: center;
+    background-image: url(../components/assets/site-image/food.jpg);
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: cover;
+    height: 450px;
+  }
+  .text-food{
+    text-align: center;
+  }
+  .text-food h1{
+    font-size: 50px;
+    padding-top:50px;
+    color:var(--dark);
+  }
+  .text-food div{
+      width: 5rem;
+      height: 5px;
+      background: red;
+      margin: 1.7rem auto;
+      margin-top: 40px;
+  }
+  
+  /*end food*/
+   

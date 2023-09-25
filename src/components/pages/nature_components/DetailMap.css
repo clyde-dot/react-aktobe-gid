@@ -1,0 +1,8 @@
+.detailMapContainer{
+    display:flex;
+    justify-content: center;
+}
+.detailMap{
+    height: 700px;
+    width: 100%;
+}

@@ -1,0 +1,9 @@
+
+.googleMapContainer{
+    display:flex;
+    justify-content: center;
+}
+.googleMap{
+    height: 700px;
+    width: 100%;
+}

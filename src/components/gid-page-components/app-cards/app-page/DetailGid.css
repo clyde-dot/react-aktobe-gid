@@ -1,0 +1,163 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+.parallax-banner{
+  text-align: center;
+  
+}
+
+.first-character {font-weight:400; float: left; font-size: 84px; line-height: 64px; padding-top: 4px; padding-right: 8px; padding-left: 3px; font-family: 'Source Sans Pro', sans-serif;}
+
+.sc {color: #3b8595;}
+.ny {color: #3d3c3a;}
+.atw {color: #c48660;}
+
+#parallax-world-of-ugg .block {background: white; padding: 60px; width:90%; margin:0 auto; text-align:justify;}
+
+
+#parallax-world-of-ugg .parallax-one {
+  padding-top: 200px; 
+  padding-bottom: 200px; 
+  overflow: hidden; 
+  position: relative; 
+  width: 100%;  
+  background-attachment: fixed; 
+  background-size: cover; 
+  -moz-background-size: cover; 
+  -webkit-background-size: cover; 
+  background-repeat: no-repeat; 
+  background-position: top center;
+  height: 100vh;
+}
+
+/* Media Queries */
+/**************************/
+@media screen and (max-width: 959px) and (min-width: 768px) {
+  #parallax-world-of-ugg .block {padding: 40px; width:620px; }
+}
+@media screen and (max-width: 767px) {
+  #parallax-world-of-ugg .block {padding: 30px; width:420px;}
+  #parallax-world-of-ugg h2 {font-size:30px;}
+  #parallax-world-of-ugg .block {padding: 30px;}
+  #parallax-world-of-ugg .parallax-one, #parallax-world-of-ugg .parallax-two, #parallax-world-of-ugg .parallax-three {padding-top:100px; padding-bottom:100px;}
+}
+@media screen and (max-width: 479px) {
+  #parallax-world-of-ugg .block {padding: 30px 15px; width:90%;}
+}
+
+.gid-profile-container {
+    max-width: 900px;
+    display: flex;
+    justify-content: space-evenly;
+    margin: 0 auto;
+  }
+  .gid-profile-card-wrapper {
+    width: 400px;
+    height: 500px;
+    position: relative;
+  }
+  .gid-profile-card {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 350px;
+    height: 450px;
+    transform: translate(-50%, -50%);
+    border-radius: 16px;
+    overflow: hidden;
+    box-shadow: 0 5px 18px rgba(0, 0, 0, 0.6);
+    cursor: pointer;
+    transition: 0.5s;
+  }
+  .gid-profile-card .gid-profile-card-image {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 100%;
+    z-index: 2;
+    background-color: #000;
+    transition: 0.5s;
+  }
+  .gid-profile-card:hover img {
+    opacity: 0.4;
+    transition: 0.5s;
+  }
+  .gid-profile-card:hover .gid-profile-card-image {
+    transform: translateY(-100px);
+    transition: all 0.9s;
+  }
+  /**** Social Icons *****/
+  .gid-profile-social-icons {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 3;
+    display: flex;
+  }
+  .gid-profile-social-icons li {
+    list-style: none;
+  }
+  .gid-profile-social-icons li a {
+    position: relative;
+    display: block;
+    width: 50px;
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+    background: #fff;
+    font-size: 23px;
+    color: #333;
+    font-weight: bold;
+    margin: 0 6px;
+    transition: 0.4s;
+    transform: translateY(200px);
+    opacity: 0;
+  }
+  .gid-profile-card:hover .gid-profile-social-icons li a {
+    transform: translateY(0px);
+    opacity: 1;
+  }
+  .gid-profile-social-icons li a:hover {
+    background: #000;
+    transition: 0.2s;
+  }
+  .gid-profile-social-icons li a:hover .fab {
+    color: #fff;
+  }
+  .gid-profile-social-icons li a .fab {
+    transition: 0.8s;
+  }
+  .gid-profile-social-icons li a .fab:hover {
+    transform: rotateY(360deg);
+    color: #fff;
+  }
+  .gid-profile-card:hover li:nth-child(1) a {
+    transition-delay: 0.1s;
+  }
+  .gid-profile-card:hover li:nth-child(2) a {
+    transition-delay: 0.2s;
+  }
+  .gid-profile-card:hover li:nth-child(3) a {
+    transition-delay: 0.3s;
+  }
+  .gid-profile-card:hover li:nth-child(4) a {
+    transition-delay: 0.4s;
+  }
+  /**** Personal Details ****/
+  
+  .profile-two .gid-profile-social-icons li a {
+    border-radius: 50%;
+  }
+  .gid-profile-card:hover .profile-img--two {
+    transform: rotateY(180deg);
+  }
+  .gid-profile-card:hover .jane {
+    bottom: 0;
+    left: 0;
+    transition-delay: 0.5s;
+    opacity: 1;
+  }
+  .gid-profile-name{
+    font-size: 36px;
+  }
